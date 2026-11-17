@@ -1,0 +1,244 @@
+In the first six months of this year, the company behind Claude lost 80 billion dollars.
+That's about 18 million dollars an hour, nights included.
+And Wall Street's answer?
+We want in.
+Because Anthropic is about to sell itself to the public in the biggest IPO ever planned.
+Wait, it lost how much?
+80 billion!
+Okay, where do I tap?
+So where did the money go?
+And why has its own CEO already explained, on a podcast, exactly how a company like his goes bankrupt?
+San Francisco, January 2021.
+Seven people leave open AI and start a new AI lab.
+Two of them are siblings, Dario Amade, the scientist, and his sister Daniela, the one who keeps the company running.
+Why they left is a whole other story.
+This one is about the bill, because building an AI takes hardware, a lot of it.
+Claude doesn't live in a box under someone's desk.
+It lives on huge racks of chips and data centers, most of them owned by other companies.
+Every answer it gives burns time on those chips.
+The industry calls that compute.
+Think of it as rent for a brain, and brains are expensive to rent.
+In May, Anthropic raises its first big round, 124 million dollars.
+Early on, another investor puts in 500 million.
+His name is Sam Bankman-Fried.
+You know how that one ends.
+In November 2022, his crypto exchange FTX collapses, and his piece of Anthropic gets swept into the bankruptcy with everything else.
+Then, the people cleaning up the wreck go through the boxes.
+We've got a stake in some AI lab.
+Is it worth anything?
+It's worth more than he paid.
+In 2024, the estate sells it for about 1.3 billion dollars.
+That's roughly 800 million in profit.
+The most famous crypto fraud of the decade made one great investment, and it was in the AI lab known for being careful.
+Meanwhile, Claude starts selling.
+2023, 41 million dollars.
+2024, 386 million.
+2025, 4.6 billion.
+About 10 times bigger every year.
+The giants want in.
+Amazon puts in 8 billion dollars.
+Google signs up for as much as 40, but look at how they pay.
+They don't buy shares.
+They hand over cash for a promise, an IOU that turns into shares later.
+Hold on to that.
+It comes back with a very big number attached, because the losses grew even faster.
+In 2025, Anthropic lost 42 billion dollars, about $9 lost for every dollar sold.
+That's the kind of math that usually ends a company.
+Here, investors kept paying more.
+Even the snacks were losing money.
+That year, Anthropic let Claude run a small vending machine in its office.
+The staff nicknamed it Claudius.
+Can you stock tungsten cubes?
+Absolutely.
+Also, here's a discount code.
+You're selling them for less than you paid.
+Customer loyalty.
+It also tried to sell $3 Coke Zero to people who could get it for free in the same office.
+Claudius lost money.
+Anthropic wrote it up as research.
+Then, in early 2026, Anthropic got so good at its job that it scared the rest of Wall Street.
+January 12th, 2026.
+Anthropic launches Claude Cowork, an AI that doesn't just chat.
+It does office work.
+A few weeks later, it adds plugins for 11 different industries.
+Wall Street does the math.
+If an AI can do the work, what happens to the companies that sell the tools for that work?
+In early February, software stocks lose about $285 billion in value.
+Thompson Reuters, the company behind Reuters, falls 16%.
+It's worst day ever.
+What did Anthropic release?
+Plugins.
+How many plugins?
+11.
+That same month, investors put in $30 billion, valuing Anthropic at $380 billion.
+Google alone puts in 10.
+And Dario sits down for a long podcast interview and says something about all that rented compute.
+We'll come back to it.
+Then, the government turns.
+Anthropic had refused to let Claude be used for mass surveillance at home or for weapons that fire on their own.
+So, on February 27th, Pete Hegseth's Pentagon labels it a supply chain risk.
+As of today, Anthropic is a supply chain risk.
+Isn't that label for companies from rival countries?
+Next question.
+He's right, by the way.
+Anthropic's own lawyers say the losses this year could run from hundreds of millions of dollars to multiple billions.
+For a company getting ready to ask the public for money, this is how the whole plan dies.
+It didn't.
+Because the government was never the money.
+It's less than 2% of Anthropic's sales.
+The Pentagon deal at the center of the fight was worth about $200 million over two years.
+These days, Anthropic sells that much in about a day.
+And the spring is the best stretch it has ever had.
+From April to June, sales hit $11.6 billion.
+And for the first time, the business makes an operating profit, $974 million.
+Operating profit means what you make selling the thing minus what it costs to make it.
+Claude finally paid for itself.
+In May, investors put in another $65 billion at a value of $965 billion.
+Remember that first round of $124 million?
+This one is over 500 times bigger.
+That's more than double February's price in about three months, which is fantastic news.
+And as it turns out, the reason it lost $80 billion.
+June 1st, 2026.
+Anthropic sends its IPO paperwork to regulators in secret.
+11 days later, somebody else goes first.
+SpaceX lists at $135 a share worth $1.77 trillion.
+With almost a third of the shares set aside for regular people.
+Day one, it closes at 161.
+Then, it peaks at 211.
+By the middle of July, it's below where it started.
+By early August, 108.
+In about six weeks, half the peak is gone.
+That's the chart Anthropics bankers get to look at every morning.
+In October, the books leak.
+Then, on October 26th, the filing goes public.
+Its ticker will be ANT.
+Sales in the first half of the year, $16.3 billion.
+Up from about $1.2 billion a year earlier, loss $80.7 billion.
+The draft's list of things that could go wrong ran 94 pages.
+We're worth more than twice what we were in February.
+Correct. Congratulations.
+Then, why does this say we lost $72 billion?
+Because you're worth more than twice what you were in February.
+Remember the I.O.S., Amazon, Google, and other early backers
+gave Anthropic cash in exchange for shares later.
+Picture a lemonade stand.
+Your neighbor gives you $100 today for a slice of the stand
+handed over down the road.
+Then, your stand becomes the hottest stand in America.
+That slice is now worth a fortune, and you still owe it.
+The accounting rules say, the more your promise is worth, the more you owe.
+And that jump goes on the books as a loss.
+Out of the $80.7 billion, $72.4 billion is exactly that.
+A charge on paper.
+So, did any actual money leave?
+Not for that part.
+Look only at the business of selling, Claude,
+and it lost about $700 million in those six months.
+That's real money.
+It's also a long way from $80 billion.
+And over the first nine months of the year,
+the business itself brought in $6.6 billion more than it cost to run.
+Now flip it around.
+Amazon owns a pile of those IOUs.
+On its own books, it reported gains of more than $60 billion from them.
+Same promise.
+One company calls it a loss, the other calls it a profit, and it keeps going.
+On November 2nd, a new filing.
+The loss for the first nine months is $104 billion.
+That's more than SpaceX raised in its record IPO in June.
+$94 billion of it is paper, including a $2 billion charge
+for matching the staff's donations to charity.
+Meanwhile, Anthropoc is sitting on about $132 billion in cash.
+More than it lost.
+Both numbers are true.
+So, the scary number on the thumbnail is mostly a scoreboard
+of how fast Anthropoc's value went up.
+Case closed?
+Not quite.
+Because buried in the same filing is a different number.
+And that one is real.
+$895 billion.
+That's how much Anthropoc has signed up to pay for computers in the years ahead.
+It's sales so far this year?
+$33 billion.
+The bill is about 27 times bigger.
+Here's who gets paid.
+Broadcom, about $160 billion.
+Google, $120 billion.
+Amazon, $110 billion.
+Microsoft, $45 billion.
+And about $120 billion to SpaceX's AI business.
+Yes, that's SpaceX.
+The company whose IPO record Anthropoc is chasing is also one of its landlords.
+Some of it can be canceled or depends on conditions.
+About $214 billion.
+But $70 billion is due in the next 12 months and almost $450 billion before 2031.
+Why sign for so much so far ahead?
+Because compute gets rented years in advance.
+Book too little and you pay the last-minute price.
+That's exactly what happened this summer.
+From July to September, computers cost Anthropoc $9.9 billion, up 77%.
+$5 billion of that was expensive capacity grabbed at short notice.
+The business slipped back into a small operating loss.
+We need more computers today.
+Today costs more.
+How much have you got?
+About $5 billion worth.
+So that's one way to get it wrong.
+Buy too little and you pay through the nose.
+The other way is to buy too much, which brings us to you.
+Here's how a company sells itself to the public.
+First, the filing, then the roadshow.
+For about a week, bankers pitch the company to the biggest funds on earth.
+The funds place orders.
+This many shares at this price.
+The night before trading starts, the company and its banks pick the price that fills the book.
+Then the market opens and the price does whatever it wants.
+How much did it lose?
+Which loss?
+The big one.
+Oh, that one's good news.
+Then we'll pay the low end.
+Goldman Sachs and Morgan Stanley lead it, with 22 banks in all.
+One more thing to know.
+Anthropic only gets the money from new shares.
+When early holders sell their shares in the deal, that money goes to them.
+And most insiders can't sell for six months anyway.
+The founders, for up to about a year.
+Regular people get a real seat this time.
+The filing names six brokers, from Schwab and Fidelity to Robinhood.
+Reports say the public could get 15 to 20% of the shares.
+And in September, Anthropic split every share into 10, before the public could buy one.
+The price talk is one and a half to two trillion dollars.
+The big funds are pushing for the low end.
+Even there, buyers pay about $43 for every dollar of sales Anthropic made over the past 12 months.
+At two trillion, 57.
+Jay Ritter, the professor Wall Street calls Mr. IPO, has counted.
+Out of 4,110 American IPOs from 1980 to 2024, only 14 priced at 40 times sales or more.
+On average, they did 15% worse than the market.
+Aswath Damodaran, who values companies for a living, called the latest quarter
+the most telegraphed third quarter number of all time.
+He puts Anthropic at about 1.475 trillion, just under the low end.
+Now, back to February and that podcast.
+Dario was talking about the danger of a lab buying compute too early, years ahead of the customers.
+He didn't soften it.
+If I'm just off by a year in that rate of growth, or if the growth rate is 5x a year instead of 10x a year,
+then you go bankrupt.
+That's not someone betting against the stock.
+That's the CEO, describing the trap his whole industry is standing in.
+Anthropic has signed $895 billion of bills on the bet that growth shows up on schedule.
+Now, it's asking the public to buy in.
+Here's where it stands.
+The road show can start as early as November 10th, with trading planned for mid-November, the week of the 16th.
+The Pentagon fight stands at a split.
+A judge threw out one label in August and an appeals court kept the other in September.
+SpaceX, the record holder, is trading right back around its IPO price.
+And whatever the price, the seven co-founders keep control through one special share, one share,
+with 50.1% of the vote.
+They've also pledged 80% of their stake to charity.
+$80 billion sounds like the end of a company.
+Here, it's mostly the receipt for becoming more valuable.
+The number that decides this story is the one nobody puts on a thumbnail.
+$895 billion of computers already booked.
+Now the customers have to show up on time.
+As Mr. IPO put it, a lot of things have to go right.

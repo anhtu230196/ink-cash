@@ -1,0 +1,488 @@
+In Singapore, the boss of the most valuable company on Earth is having dinner with a Chinese spy.
+He's Jensen Huang, who runs NVIDIA.
+She's Alice Huang, no relation.
+And she runs one of his biggest customers.
+But here's the strange part.
+Somewhere nearby, American agents are taking pictures.
+They know exactly who she is.
+Jensen has no idea.
+To our customers!
+To friends!
+Under that table, her company is buying billions of dollars of his chips.
+The kind China isn't allowed to have.
+This is the story of how China got a spy into that seat.
+And who was watching.
+It starts with a phone call from Washington.
+But to see why that call mattered, you need to know who picked it up.
+Because the man in the leather jacket didn't start at the top.
+He started in a bathroom in Kentucky.
+Jensen's story begins in Taiwan.
+At nine, he and his older brother were put on a plane to relatives in America.
+To pay for a good school, his parents sold almost everything they owned.
+Oneida Baptist Institute, a boarding school in Kentucky.
+Very strict.
+Strict is good.
+It wasn't a fancy boarding school.
+It was a reform school for troubled kids, and the relatives had signed them up by mistake.
+His brother was sent to work the school's tobacco fields.
+Jensen got the bathrooms.
+A hundred teenage boys' worth every single day.
+I just wish they would be a bit more careful.
+His roommate was 17, covered in tattoos and knife scars, and taped up from his latest fight.
+He was the toughest kid in the school, and he couldn't read.
+What's this say?
+I can teach you.
+Then I teach you the bench press.
+Deal.
+Decades later, Jensen gave that school two million dollars for a new building.
+It's called Huang Hall.
+The boy who cleaned its bathrooms put his name on the front door.
+At 15, he took the graveyard shift at Denny's.
+Dishes first, and then?
+Then Busboy.
+Then, if you're lucky, waiter.
+And then?
+There, more dishes.
+And in 1993, he went back to Denny's, not to work, to start a company.
+In a corner booth in East San Jose, Jensen and two engineer friends, Chris Malachowski and Curtis Priem,
+sketched a chip for 3D graphics.
+He liked the place because it was quieter than home, and the coffee was cheap.
+Anything else, boys?
+A graphics chip.
+We have pancakes.
+Then, three more coffees.
+Each founder put in $200, $600, about the price of a used couch,
+to take on the biggest chip companies in the world.
+It nearly died.
+When its Maker Break chip finally shipped in 1997, NVIDIA had about one month of payroll left.
+The company's unofficial motto became,
+Our company is 30 days from going out of business.
+So, how long have we got?
+30 days!
+And if the new chip doesn't sell?
+29!
+It sold, about a million of them in four months.
+And here's the trick that later made it a giant.
+A normal computer chip is one brilliant chef cooking a whole wedding dinner, one plate at a time.
+NVIDIA's chip is 10,000 line cooks, each flipping one pancake at the very same moment.
+For video games, that meant explosions.
+Then, researchers noticed that artificial intelligence needs exactly that.
+Millions of tiny sums, all at once.
+ChatGPT was trained on a supercomputer built from tens of thousands of NVIDIA chips.
+And suddenly, every AI company on Earth was standing in the same line.
+One of everything, please.
+Take a number!
+40,000?
+That's your place in line!
+By 2025, about 86 of every $100 spent on AI chips went to NVIDIA.
+In 2023, Denny's put a plaque on the booth.
+It calls it the booth that launched a $1 trillion company.
+At the party, the boss of that company put on an apron, balanced 10 plates up his arm, and served the tables.
+Still remember how?
+Dishes first.
+Two years later, NVIDIA became the first company ever worth $5 trillion.
+Every dollar the three of them put into that booth had become about $8 billion.
+The kid who scrubbed the toilets in Kentucky now holds the key to artificial intelligence.
+And when he talks about who should be allowed to buy his chips, Washington listens.
+Every AI lab on Earth needs this man.
+Then, so do we.
+That made him the one man China needed most.
+October 2022, Washington calls NVIDIA.
+Your best AI chips can't be sold to China anymore.
+And the slower ones we made just for China?
+Those too.
+China.
+$17 billion a year.
+13% of everything we sell was
+How many chips do we need for a real AI?
+Tens of thousands.
+And one costs?
+About $30,000.
+A new car per chip.
+And how many can we buy?
+Zero.
+By Jensen's own account, NVIDIA's share of China's market went from 95% to zero.
+And he told Washington so.
+Every chance he got.
+They're nanoseconds behind us.
+We've got to go compete.
+So China couldn't buy the chips, but it could get close to the man who makes them
+and who argues with Washington about who gets to buy them.
+That's a job for China's Ministry of State Security, the MSS.
+Picture the FBI and the CIA in one building.
+It doesn't crack the safe.
+It befriends the man with the key.
+Nobody outside Beijing has said when Alice Huang was recruited,
+but an American memo later wrote down her job.
+This man makes the chips, and Washington listens to him.
+So what do I steal?
+Nothing.
+You learn what he knows.
+You help him see things our way.
+Why would he even talk to me?
+Because you'll be his customer.
+And then?
+We make friends.
+The key belonged to one man, and that man likes everybody.
+In 2023, a Chinese gaming and cloud company called Seven Road split off its business outside China,
+moved it to Singapore, and renamed it Megaspeed.
+The managing director was Alice Huang.
+We make phone games.
+Now we make supercomputers.
+Since when?
+Since Singapore.
+Address?
+Singapore.
+America trusts Singapore.
+Business?
+Cloud computing.
+A cloud company needs mountains of chips, and nobody asks why.
+And the chips go where?
+Data centers in Malaysia and Indonesia.
+Not one chip goes to China.
+Then how does China use them?
+It rents them.
+Imagine a country that isn't allowed to buy cars.
+So you buy the cars, park them just over the border, and rent out the keys by the hour.
+Chinese companies, Alibaba among them, rented time on the chips the same way,
+and the chips never entered China.
+Can we buy your chips?
+No, but you can rent them.
+By the hour?
+By the warehouse.
+At the end of 2023, everything Megaspeed owned came to about $33 million.
+A nice little company, and not one the boss of NVIDIA had any reason to meet.
+So she went and found him.
+Jensen Huang isn't hard to meet.
+The former Denny's dishwasher now runs a company worth about $4.5 trillion,
+and he still treats every customer like a regular.
+As his spokesman later put it,
+Meetings with customers are part of a CEO's job.
+Jensen talks with thousands of customer executives every year.
+She was about to become one of those thousands.
+June 2024 in Taipei.
+The big chip show Computex has just ended,
+and Jensen goes for whiskey with people from the AI world.
+Someone takes photos.
+In them, right beside him is Alice Huang.
+Who haven't I met?
+Alice.
+Megaspeed.
+Singapore.
+Singapore.
+What are you building?
+A cloud company.
+Something big.
+Then welcome to the table.
+Nobody looks at those photos twice.
+Later, someone will.
+That same month, at Megaspeed's Malaysian arm, the paperwork starts.
+What do we put up as collateral?
+Everything.
+The whole Malaysian business?
+The whole business.
+Every last desk.
+And the lender is?
+Owned by Alibaba.
+And the buying began.
+A Singapore company wants servers.
+How many?
+Yes.
+Shipment 100.
+Shipment 150.
+Shipment 200.
+What's in them?
+Vidya's best.
+Nearly $2 billion worth.
+At $30,000 a chip?
+That's about 60,000 chips.
+A parking lot of 60,000 new cars.
+In one year.
+End of 2023, we had $33 million.
+Yes.
+End of 2024, we have $3 billion.
+Yes.
+$2.9 billion of it is deposits.
+From who?
+Refundable.
+From refundable.
+About 90 times bigger in one year.
+If a lemonade stand went from $33 to $3,000 in a year, its parents would have questions.
+Then, late in 2024, an official from America's Commerce Department
+walks into one of the Malaysian data centers.
+It's supposed to be full of humming AI servers.
+Where's the data center?
+You're standing in it.
+These are boxes.
+Very advanced boxes.
+I'm opening an investigation.
+The inspector wrote it all down.
+And nothing happened.
+Because on paper, nothing looked wrong.
+Every sale went to Singapore or Malaysia, not China.
+When Nvidia sent people to check her sites, every chip was exactly where it should be.
+Jensen later said they had counted everyone.
+That was the whole trick.
+The chip stayed put and China rented them over the internet.
+What almost nobody knew was that American spies were already listening to her.
+When American spy agencies listen to a foreign target and that target talks to an American,
+the reports hide the American's name.
+They just say, an American citizen.
+She's talking to an American citizen.
+Then request the name.
+It's Jensen Huang.
+Does he know who she is?
+Our read?
+No.
+How far back does it go?
+June, 2024.
+A whiskey bar in Taipei.
+Then we watch.
+So where did all those servers come from?
+Mostly from Aivris, the American arm of Insper, a Chinese server giant,
+partly owned by the Chinese state and on America's blacklist.
+Insper?
+You're on the list.
+I'm Aivris, the American son.
+Aivris.
+Not on here.
+Thanks.
+December, 2024 to January, 2026.
+$4.6 billion of equipment in.
+And from Aivris?
+$4 billion.
+Malaysia was the older cousin who buys beer for kids who are too young,
+except this cousin never hands the beer over.
+He lets you drink it at his place.
+Trade records later counted at least $4.8 billion of AI gear with Nvidia inside,
+all going to her company's Malaysian sister firm.
+Nearly $5 billion.
+To one company most people had never heard of.
+Real smugglers hid Nvidia chips next to live lobsters.
+America's big smuggling bust in December, 2025 was worth $160 million,
+about 3% of Megaspeed's haul.
+Megaspeed didn't need lobsters.
+It had invoices.
+Cost?
+Some dinners.
+Some whiskey.
+Return?
+$4.8 billion of AI gear our companies can use.
+And a seat next to the man who argues with Washington.
+Did he ever slip you anything under the table?
+Not once.
+Why pass chips under the table when you can rent the whole warehouse?
+We make friends.
+So what was all of this really for?
+The seat mattered more than the chips.
+Not for blueprints.
+Nvidia says customers get zero information relevant to national security.
+The prize was the man,
+because Washington couldn't make up its mind about what China could buy.
+Your China chip?
+Blocked.
+So we can't sell it?
+August.
+You can.
+We take 15%.
+So we can sell it?
+December.
+And the stronger one too.
+We take 25%.
+I'm going to need a bigger whiteboard.
+Blocked.
+Then 15%.
+Then 25%.
+Washington changes its mind every few months.
+And who does Washington keep hearing from?
+Him.
+That first call alone cost Nvidia $4.5 billion.
+In chips, it suddenly couldn't sell.
+That's about $13 from every person in America,
+gone in one phone call.
+And through every one of those calls,
+Jensen made the same argument he'd been making for years,
+out loud on every stage he could find.
+Let American chips compete everywhere.
+So you want to sell to China?
+I want the whole world building on American chips.
+Hold that thought.
+In Taipei, in May 2025, he put it bluntly.
+All in all, the export control was a failure.
+A week later to his investors.
+The $50 billion dollar China market
+is effectively closed to US industry.
+$50 billion.
+That's about $150 for every American left on the table.
+That autumn in London,
+he warned that China was going to win the AI race
+with cheaper power and fewer rules.
+That same night, he made sure nobody missed
+whose side he was on.
+It's vital that America wins by racing ahead
+and winning developers worldwide.
+That's Jensen in one line.
+He wants America to win
+and he wants to sell the whole world the tools to build on it.
+Now look at it from Beijing.
+One chip is worth about $30,000.
+One conversation between this man and the White House
+can open a $50 billion market or close it.
+Which one would you rather have a seat next to?
+What is he telling Washington?
+Let American chips compete everywhere.
+He says that on every stage in the world.
+Why do we need you?
+Because I hear it first.
+And I see who he says it to.
+That's the job the memo would later describe.
+Learn what he knows
+and sit beside the man Washington listens to.
+And Washington kept moving.
+In December 2025,
+Washington let approved Chinese buyers have the stronger chip.
+That same week,
+prosecutors announced that big smuggling bust.
+The one mega speed made looks small.
+You're under arrest for sending these to China.
+Approved.
+What did you just approve?
+Sending these to China.
+Even the approved buyers weren't always what they seemed.
+New Matrix, Beijing approved.
+Hello, anyone?
+The New York Times found that New Matrix,
+a 17-month-old firm Washington had cleared to handle those chips,
+had an office that was a hollow gray shell
+with wires dangling from the ceiling.
+On paper, it was approved.
+On paper, mega speed looked fine too.
+Back in the middle of 2025, mega speed had gone quiet.
+It stopped buying
+and walked away from an order worth $3.2 billion.
+In October 2025,
+Senator Tom Cotton asked Commerce to investigate mega speed.
+He called the company it came from.
+A Chinese government-owned cloud company.
+The New York Times found the $2 billion of chips.
+Nvidia said mega speed had no China shareholders.
+In February 2026,
+her data center landlord,
+a business of Bain Capital,
+gave all the power it had set aside for mega speed
+to someone else.
+And the Commerce case moved to the Justice Department.
+By then, the people listening to her phone
+had a lot more than boxes.
+They had watched her for about a year.
+They photographed the dinners in Singapore.
+In May 2025,
+there's even video of the two of them leaving a dinner
+with AI suppliers in Taipei.
+Alice, a few feet behind him.
+In the spring of 2026,
+America wrote it down.
+In a memo overseen by Secretary of State Marco Rubio.
+Recruited by China's Ministry of State Security
+to gather information on Jensen Huang
+and to shape his lobbying for chip sales to China.
+Who else sees this?
+Just this table.
+The memo went round that small group
+before President Trump's trip to Beijing in May.
+According to the New York Times,
+the president had been briefed and didn't act.
+Jensen had been left off the list for that plane.
+Then, Trump called him
+and Jensen flew to Alaska
+to climb aboard Air Force One on the way.
+On the 29th of October, 2026,
+the New York Times broke the story.
+Alice Huang had been passing information to Beijing.
+And American intelligence knew it.
+NVIDIA's stock fell about 3%.
+Jensen told Bloomberg
+her contacts were about mega-speed.
+It was all completely normal and not unusual.
+He said she no longer worked there.
+Beijing answered too.
+Nothing more than an attempt to smear China.
+Three congressmen asked Jensen in
+for a closed-door briefing on the 18th of November.
+Their letter warned of
+significant national security concerns.
+On the 6th of November,
+the memo itself leaked.
+The spy memo's out!
+I know.
+How bad is it?
+We're up 2.78%.
+Up?
+Today's news will not slow NVIDIA.
+But here's the part that still has no answer.
+Why did nobody tell Jensen?
+When the government finds a spy close to an American,
+there's a way to tell them.
+It's called a defensive briefing.
+In 2015, the FBI gave one to a congressman in California.
+Your fundraiser works for Chinese intelligence.
+Then she's gone.
+He cut her off.
+Jensen Huang never got that visit.
+The people who knew unmasked his name,
+photographed his dinners,
+wrote the memo,
+and briefed the president.
+Nobody told the man at the table.
+He had no idea.
+And the memo says
+the friendship became more than a friendship.
+He was the target,
+and she got closer than anyone was ever meant to.
+On the 8th of November,
+Jensen wrote to his staff.
+I owe my family and all of you an apology.
+I was unfaithful to my wife.
+My actions hurt her and our children.
+There is no excuse for what I did.
+I am deeply sorry.
+NVIDIA's board set up a committee of independent directors
+with outside lawyers.
+So far, it sees.
+No reason to believe that
+either national security or NVIDIA secrets were compromised.
+Jensen is still CEO.
+And here's where his story reaches your wallet.
+NVIDIA is now about $8 of every hundred
+in an S&P 500 index fund.
+If you have a retirement account,
+there's a good chance you own a slice of him.
+Wait, I own NVIDIA?
+Everybody owns NVIDIA.
+And one scary headline from China can move it hard.
+In January 2025,
+a Chinese AI lab called DeepSeek shocked Wall Street.
+A Chinese lab built a cheap AI.
+We just lost $589 billion.
+How much is that?
+About $1,700 for every person in America.
+It was the biggest one day loss in market history.
+NVIDIA reports its earnings on the 17th of November.
+The congressmen get their briefing the next day.
+And two weeks later,
+Jensen walks onto a stage in Washington,
+the same city as the people who never told him.
+And Alice Huang, she's gone from mega speed.
+Her name has been taken off its company papers.
+Nobody has said where she is.
+Go back to that dinner in Singapore,
+the candles, the toast to friends.
+The chair next to Jensen is empty now.
+We make friends.
+America watched her at his table for almost two years
+and never told him.
+So who's pulling up a chair next to the people
+who build America's AI tonight?
+Jensen ended his letter like this.
+I love our country and our company.
+I am proud and grateful to be an American.

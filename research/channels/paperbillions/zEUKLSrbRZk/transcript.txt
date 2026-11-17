@@ -1,0 +1,304 @@
+On Thursday, NVIDIA lost more than $400 billion in a single morning, and it hadn't done anything
+wrong.
+Nobody had.
+No bank failed.
+No law passed.
+The economy looked fine.
+The S&P 500 still lost more than $2 trillion by mid-morning, and the NASDAQ needed just
+six minutes to give back a rally that was one day old.
+So why did the stock market just crash?
+And was this the AI bubble popping?
+Best day after a midterm since 1982?
+Does this come with a receipt?
+The short answer is an election.
+600,000 chips stuck in Hong Kong and some very rich people locking in a very good year.
+The long answer starts a month earlier, on the 6th of October, in Santa Clara, California.
+That day, NVIDIA closed at the highest price it had ever had.
+A month before, it was worth about $5.4 trillion, roughly $0.08 of every dollar in the whole
+S&P 500.
+If you own a plain index fund, the safe, boring kind everyone recommends, you own a lot of
+NVIDIA.
+Add the rest of the magnificent seven, Apple, Microsoft, Amazon, Alphabet, Meta, and Tesla,
+and about $35 of every hundred in that fund sits on seven companies.
+I'm diversified.
+Seven of them are a third of the pie.
+That is a big slice.
+Even at the dot-com peak, the market wasn't this lopsided, and most of those giants are
+betting on the same thing.
+That bet is expensive.
+This year, the four biggest cloud companies plan to spend over $700 billion building data
+centers.
+Next year, more than a trillion.
+The biggest line on that shopping list says NVIDIA, whose last quarter brought in $96 billion,
+more than double the year before.
+By late October, investors were staring at four cracks.
+Crack one.
+The money goes in a circle.
+NVIDIA invests in its own customers, the AI labs and chip rental firms that then buy NVIDIA
+chips.
+NVIDIA is a big mistake in CoreWeave, which rents those chips out and agreed to buy up
+to $6.3 billion of the computing power CoreWeave can't sell.
+NVIDIA's own finance chief knows how that sounds.
+We know some will call this circular financing.
+Here, here's a few billion dollars.
+Wow, what should I spend it on?
+Funny you should ask.
+Crack two.
+The chips are the collateral.
+Customers like CoreWeave borrowed huge sums to buy chips, rented them out, and pledged
+those same chips to borrow more.
+At one point, CoreWeave owed over $5 for every dollar of equity.
+Fine, while a used chip holds its value.
+But NVIDIA brings out a new generation every year or two, and each one makes the last one
+worth less.
+And Michael Burry, who called the housing crash, says the giants book their servers as
+lasting longer than they do, which flatters profits.
+The nightmare.
+One borrower misses one payment, the lender grabs the chips to sell, and everyone learns
+that afternoon what a used AI chip is worth in a hurry.
+It hasn't happened.
+But every chip investor has thought about it.
+Crack three.
+Who's paying?
+By the end of July, NVIDIA was owed about $63 billion for chips it had shipped but not
+been paid for yet.
+And this year, just three buyers made up more than two-fifths of its sales.
+We're a restaurant where three tables order two of every five plates.
+And a lot of the food goes on a tab.
+Crack four.
+The plug.
+You can buy a chip.
+You can't buy electricity that doesn't exist.
+In Northern Virginia, the data center capital of the world, the weight to hook a new building
+up to the grid had stretched to about seven years.
+And the power that does exist, somebody pays for.
+On America's biggest grid, across 13 states, power plants get paid just to stand ready
+and families cover that in their bills.
+Then the data centers piled in.
+Households there were paying an estimated $25 to $30 a month more than in 2024.
+And the grid's own watchdog blamed data centers first.
+Why is the electric bill up again?
+Hi, neighbor.
+Nobody reads a spending report.
+Everybody reads their power bill.
+Hold that thought.
+Wall Street had its own bad news.
+On October 29th, Google had its worst trading day ever.
+The next day, Intel fell by a quarter.
+Chip stocks slid into a bear market, and Apple, the boring one, passed Nvidia in value.
+By the 2nd of November, the 47 biggest AI and chip stocks had lost about $5 trillion
+since the top.
+That's about what the whole dot-com crash wiped out.
+And that took two and a half years.
+This took four weeks.
+Then came the election.
+Tuesday, the 3rd of November, Democrats won the House.
+Then they won the Senate.
+Further down the ballot, in 10 states, there were 41 local votes on data centers.
+Voters went against them in 40.
+21 of those were in Ohio.
+The one town that said yes was Harwood, North Dakota.
+Ohio.
+No.
+Ohio.
+No.
+Ohio.
+Ohio.
+Hi.
+Yes.
+Over here.
+That's the power bill, showing up at the ballot box.
+In Ohio, Sherrod Brown beat John Husted, who'd been called the face of data centers.
+In Texas, Elon Musk, the cycle's biggest donor, with at least $474 million, lost both big
+races.
+His reaction?
+Data center's in space, looking pretty appealing right now.
+Here's why a town vote moves Wall Street.
+A data center needs land, power, and a permit, and all three are local.
+Goldman Sachs figured moratoriums like these could hit about 45 percent of America's planned
+data center expansion, and the bigger fear was Washington.
+For years, AI was mostly left alone to build.
+Now, a Democratic Congress, elected the same night voters said no to data centers, might
+want rules on where data centers go, who pays for their power, and how fast the buildout
+runs.
+Robert Garcia had two words for AI executives, lawyer up.
+So data centers, so data centers.
+We were just leaving.
+No rule has passed, not one.
+It was the fear of a rule that did the selling.
+That trillion dollar shopping list had picked up some small print, if they let us build
+it.
+And on Wednesday, Wall Street partied anyway.
+The Dow jumped 1,569 points, about 3 percent.
+It's best day after a midterm since 1982, and oil fell more than 9 percent.
+Traders loved the cheap oil.
+They hadn't gotten to the new Congress yet.
+The party lasted one day.
+That morning, Vice President J.D. Vance had posted on X.
+The reason we lost is the war.
+The war with Iran.
+That raised hopes of a deal, and oil fell.
+By Thursday morning, traders doubted it, and oil climbed again.
+Then, before the opening bell, Reuters dropped the next problem.
+About 600,000 of Nvidia's H-200 chips were sitting in Hong Kong, waiting for Beijing
+to let them in.
+Washington had cleared the sales last winter, case by case, with a 25 percent tariff.
+In August, Beijing let companies use them in Hong Kong, into mainland China, in bulk,
+still waiting.
+You said we can sell them.
+You can.
+25 percent, please.
+They're in Hong Kong.
+Can they come in?
+Not moving.
+Not yet.
+The strange part, Nvidia had already taken a $400 million hit on H-200s that nobody
+bought, and the ones that did have buyers couldn't get through the door.
+9.30.
+The bell rings in New York.
+It takes the Nasdaq six minutes to give back the whole rally.
+So much for Wednesday.
+10.35.
+The Nasdaq is down 4 percent, and the Dow 700 points.
+Across the S&P 500, more than $2 trillion has vanished, and more than $400 billion of
+it is Nvidia alone.
+That's about twice Amazon's entire building budget for the year.
+11.17.
+The VIX, Wall Street's fear gauge, is up 65 percent.
+Think of it as the price of crash insurance, and everybody wants some.
+11.37.
+The Dow is on track for its worst second day after a midterm in records going back to 18.96.
+11.38.
+AMD's boss, Lisa Su, speaks up, with her stock down 15 percent.
+I think the market can sometimes be a little bit short-sighted.
+Ah!
+Ah!
+2.58.
+And this is where ordinary people come in.
+Maybe you're at work checking your phone under the desk.
+You own a plain S&P 500 fund.
+If it holds a quarter of a million dollars, Nvidia alone took about $990 out of it that
+morning.
+By now, small investors have sold, on net, $358 million of stock, the most since March
+2020.
+Buy the dip.
+Or sell the dip.
+Or sell the dip.
+Viraj Patel at Vanda Research called it, a total capitulation by retail investors, with
+no signs of buying the dip.
+306.
+Charlie McElegate, a strategist at Nomura, explains who's really selling.
+They're shooting the generals.
+The generals are the year's biggest winners.
+Hedge funds had made a fortune in 2026, and with two months to go, they sold the winners
+to lock it in.
+Computer-driven funds and funds on borrowed money were forced to sell, too, and nobody
+stepped in to buy.
+Great year.
+Let's bank it.
+Sell the winners.
+Which ones?
+Yes.
+Yes.
+Single-name stock moves are absolutely bonkers.
+Four o'clock.
+The closing bell.
+The Dow lost 1,833 points.
+The S&P fell over 4%.
+The Nasdaq fell 5.5%.
+Its biggest drop in 19 months, and is now in a correction, at least 10% below its high.
+Chip stocks had their worst day since March 2020.
+Nvidia closed at $181, down more than 9%.
+And while everything burned, Apploven rose almost 30%.
+And Goldman Sachs picked that day to name 109 new partners, its biggest class since
+2010.
+Honestly, honestly, honestly, great day to get promoted.
+It's easy to think a crash like this only hurts rich people.
+It doesn't.
+Around 70 million Americans save in a 401k, mostly through the same index funds.
+And the pensions of teachers and firefighters hold them, too.
+When the seven giants fall, they fall, too.
+It goes deeper than stocks.
+Data centers run on borrowed money, much of it raised from insurers and pension funds.
+PIMCO bought a big piece of the bonds for Metta's giant Louisiana data center with
+Saver's money.
+And Washington has moved to open 401ks to this kind of lending.
+So your retirement may be quietly lending to a half-built building.
+And some get hit without owning a share.
+The electricians.
+Some making $260,000 a year on data center jobs.
+And the diners that feed them.
+Thursday didn't stop that work.
+But if the spending stops, it lands there first.
+If you're 25, Thursday was a sale.
+If you're 62 and retiring in the spring, it was a very long day.
+So who do you get angry at?
+Every crash wants a villain.
+2008 had the banks.
+Thursday doesn't really have one.
+I just didn't want the bill.
+I just wanted to keep my good year.
+I just said not yet.
+I just sold chips.
+Every one of those choices made sense on its own.
+They just all landed on the same morning.
+So here's why the stock market crashed.
+A market that's one-third AI had been sliding for a month.
+In three days, voters elected a Congress
+that might reign in data centers.
+Beijing left 600,000 chips at the door.
+And funds sitting on a great year cashed out.
+Nothing broke.
+The fear did it.
+It isn't new either.
+In the 1840s, Britain went mad for railways.
+And at the peak, it was pouring about 7% of its economy
+into track.
+Railway shares lost nearly 2 thirds of their value.
+And a third or more of the approved lines never got built.
+But many of the lines that did get built
+are still part of Britain's railway today.
+Here's the catch.
+A railway can wait for its trains.
+A chip sitting in a dark building just gets older.
+So was Thursday the AI bubble popping?
+Not yet.
+Both tariff crash days in April, 2025 were bigger.
+And together erased a record $6.6 trillion.
+Jobless claims were near their lowest since 1969.
+And no rule had passed.
+Bernie Sanders called for a national moratorium
+on data centers.
+Americans don't want big tech oligarchs
+wrecking the environment.
+A call, not a bill.
+A bubble doesn't pop when prices fall.
+It pops when the money stops.
+On Thursday, the money hadn't stopped.
+NVIDIA's sales were still doubling.
+The giants were still expected to spend more
+than a trillion dollars next year.
+But here's the part almost nobody noticed.
+A week before the crash, one giant blinked.
+Microsoft cut its spending plan
+from $175 billion to 170.
+That's less than 3%, tiny.
+But it's a foot moving toward the break.
+And on Tuesday, the people who pay the electric bill
+elected a Congress that might want to say
+in where the buildings go.
+So Thursday wasn't the pop.
+It was the day the market noticed there's a pin.
+And that voters, Washington and Beijing,
+all have a hand on it.
+NVIDIA is now about a quarter below its October record.
+Its next report is due on the 17th of November.
+And the 600,000 chips are still in Hong Kong.
+The rally died in six minutes.
+What happens next gets decided much more slowly
+by permits, power lines, and an electric bill
+on a kitchen table in Ohio.
+On Thursday, Lisa Su said the market
+can be a little bit short-sighted.
+That afternoon, it might have been the furthest
+it had looked in months.

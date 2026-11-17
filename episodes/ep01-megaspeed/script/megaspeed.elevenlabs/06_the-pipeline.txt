@@ -1,0 +1,46 @@
+2024 to 2026. Johor, Malaysia.
+[curious] Just how many chips flowed into this pipeline?
+Three newsrooms checked the records.
+Three counts came back.
+
+Count one: Bloomberg checked Malaysian customs records.
+It found at least 4.6 billion dollars of hardware, or 136,000 Nvidia chips.
+
+[excited, voice rising] “That's a LOT of chips!”
+[woman's voice, calm and dry] “That was… count one.”
+
+Count two: The New York Times checked trade data from mid-2024 to early 2026.
+It counted at least 4.8 billion dollars of Nvidia gear.
+Count three: The Information cited two people familiar with the deals.
+Their total hit 7.5 billion dollars—roughly 240,000 chips.
+Different records. Different totals.
+
+Let's shrink those numbers down.
+The biggest count works out to roughly 31,000 dollars per chip…
+[deadpan] That's a nice used car. For each chip.
+The Times' count covers about twenty months.
+That's more than 300,000 dollars of Nvidia gear every SINGLE hour.
+More than THREE Las Vegas Spheres, or almost half the Dallas Cowboys.
+
+[excited, talking fast] “Three hundred thousand an hour?”
+[woman's voice, calm and dry] “Every. Hour.”
+[excited, talking fast] “Even on Sundays?”
+[woman's voice, calm and dry] “Especially Sundays.”
+
+Bloomberg also noticed a strange gap…
+Megaspeed's declared data-center space looked too small for that much hardware.
+Picture buying a THOUSAND couches for a studio apartment.
+
+[small child voice, whispering, curious] “Are we training AI yet?”
+[small child voice, whispering sharply] “Shh! Not yet.”
+[small child voice, whispering] “Then why is it so dark?”
+[small child voice, whispering, matter-of-fact] “Because… we're still in the box.”
+[small child voice, whispering] “When do we get plugged in?”
+[small child voice, deadpan] “When they find a bigger apartment.”
+
+[lower, conspiratorial] But here is the part most headlines skip.
+
+Bloomberg found NO evidence the chips went to China.
+
+And Megaspeed says it runs a "small commercial cloud," as U.S. rules allow.
+[curious] So why did U.S. intelligence step in?

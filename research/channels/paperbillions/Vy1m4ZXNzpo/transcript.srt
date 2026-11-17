@@ -1,0 +1,1444 @@
+1
+00:00:00,000 --> 00:00:03,960
+This is Jensen, and Jensen has a huge problem.
+
+2
+00:00:03,960 --> 00:00:06,680
+For 33 years, he built one company.
+
+3
+00:00:06,680 --> 00:00:08,960
+It almost went broke, and he saved it.
+
+4
+00:00:08,960 --> 00:00:11,480
+He bet a huge share of his profits on software
+
+5
+00:00:11,480 --> 00:00:14,600
+nobody wanted and waited 10 years to be right.
+
+6
+00:00:14,600 --> 00:00:16,320
+He turned a video game chip maker
+
+7
+00:00:16,320 --> 00:00:18,880
+into the most valuable company on earth.
+
+8
+00:00:18,880 --> 00:00:22,160
+33 years, and this week he lost it
+
+9
+00:00:22,160 --> 00:00:24,400
+because he couldn't keep his pants zipped.
+
+10
+00:00:24,400 --> 00:00:26,120
+We accept your resignation.
+
+11
+00:00:26,120 --> 00:00:27,480
+Can I keep the jacket?
+
+12
+00:00:27,480 --> 00:00:28,320
+No.
+
+13
+00:00:28,320 --> 00:00:30,040
+But that's Jensen's problem.
+
+14
+00:00:30,040 --> 00:00:31,360
+Here's Nvidia's.
+
+15
+00:00:31,360 --> 00:00:33,440
+Nobody thought he would actually go.
+
+16
+00:00:33,440 --> 00:00:37,360
+Two days before he quit, the betting markets gave it 18%
+
+17
+00:00:37,360 --> 00:00:40,040
+because nobody could picture Nvidia without him.
+
+18
+00:00:40,040 --> 00:00:42,080
+Nvidia never had a number two.
+
+19
+00:00:42,080 --> 00:00:44,960
+60 people reported straight to one man.
+
+20
+00:00:44,960 --> 00:00:46,720
+No backup, no plan B.
+
+21
+00:00:46,720 --> 00:00:48,760
+There has to be somebody else.
+
+22
+00:00:48,760 --> 00:00:50,200
+The guy in the leather jacket.
+
+23
+00:00:50,200 --> 00:00:51,160
+That's Jensen.
+
+24
+00:00:51,160 --> 00:00:53,840
+The other guy in the leather jacket?
+
+25
+00:00:53,840 --> 00:00:56,040
+Wall Street has even put a price on it.
+
+26
+00:00:56,040 --> 00:00:59,280
+One analyst says Nvidia is worth $300 a share
+
+27
+00:00:59,280 --> 00:01:02,840
+with Jensen in that jacket, and $225 with it empty.
+
+28
+00:01:02,840 --> 00:01:05,680
+That gap is almost $2 trillion.
+
+29
+00:01:05,680 --> 00:01:08,280
+Right now, the finance chief is holding it.
+
+30
+00:01:08,280 --> 00:01:10,440
+The president wants to hand it to Tim Cook,
+
+31
+00:01:10,440 --> 00:01:12,760
+and on Tuesday, Nvidia reports its numbers
+
+32
+00:01:12,760 --> 00:01:14,840
+without him for the first time ever.
+
+33
+00:01:14,840 --> 00:01:18,280
+So how does a man throw away 33 years of work?
+
+34
+00:01:18,280 --> 00:01:19,760
+We've told that story already.
+
+35
+00:01:19,760 --> 00:01:22,240
+The big question is the one he left behind.
+
+36
+00:01:22,240 --> 00:01:24,320
+Can Nvidia survive without him?
+
+37
+00:01:25,040 --> 00:01:30,040
+April 1993, Jensen Huang and two other engineers
+
+38
+00:01:32,680 --> 00:01:34,400
+start a graphics chip company.
+
+39
+00:01:34,400 --> 00:01:35,720
+They call it Nvidia.
+
+40
+00:01:35,720 --> 00:01:39,600
+Jensen, Microsoft just set the rules for PC games.
+
+41
+00:01:39,600 --> 00:01:41,280
+Everything's triangles.
+
+42
+00:01:41,280 --> 00:01:43,760
+Our chip does curves.
+
+43
+00:01:43,760 --> 00:01:45,040
+Only curves.
+
+44
+00:01:45,040 --> 00:01:47,320
+Nvidia has cut a beautiful key
+
+45
+00:01:47,320 --> 00:01:49,400
+for a lock that just got changed.
+
+46
+00:01:49,400 --> 00:01:51,960
+Worse, its biggest customer, Sega,
+
+47
+00:01:52,000 --> 00:01:55,320
+is paying for the next chip built the same wrong way.
+
+48
+00:01:55,320 --> 00:01:57,560
+So Jensen flies to Japan.
+
+49
+00:01:57,560 --> 00:01:59,040
+Our chip is a dead end.
+
+50
+00:01:59,040 --> 00:02:00,280
+Cancel our contract.
+
+51
+00:02:00,280 --> 00:02:01,560
+Hire someone else.
+
+52
+00:02:01,560 --> 00:02:03,800
+You flew here to fire yourself?
+
+53
+00:02:03,800 --> 00:02:06,320
+Yes, and keep the money you still owe us
+
+54
+00:02:06,320 --> 00:02:08,320
+inside Nvidia as an investment.
+
+55
+00:02:08,320 --> 00:02:10,560
+In the company whose chip doesn't work.
+
+56
+00:02:10,560 --> 00:02:11,960
+You'll probably lose it.
+
+57
+00:02:11,960 --> 00:02:13,480
+Sega said yes.
+
+58
+00:02:13,480 --> 00:02:16,920
+$5 million, and it kept Nvidia alive.
+
+59
+00:02:16,920 --> 00:02:17,760
+The reason?
+
+60
+00:02:17,760 --> 00:02:20,240
+Sega's boss simply believed in him.
+
+61
+00:02:20,240 --> 00:02:21,680
+How long have we got?
+
+62
+00:02:22,520 --> 00:02:23,520
+Same as always.
+
+63
+00:02:23,520 --> 00:02:25,080
+That was the company's motto.
+
+64
+00:02:25,080 --> 00:02:27,320
+30 days from going out of business.
+
+65
+00:02:27,320 --> 00:02:32,000
+In 1997, its next chip sold about a million in four months.
+
+66
+00:02:32,000 --> 00:02:33,240
+And within a few years,
+
+67
+00:02:33,240 --> 00:02:35,760
+Nvidia was the king of gaming chips.
+
+68
+00:02:35,760 --> 00:02:39,760
+Then in 2006, Jensen spent a big piece of the money
+
+69
+00:02:39,760 --> 00:02:41,920
+on something gamers would never see.
+
+70
+00:02:41,920 --> 00:02:43,120
+He called it CUDA.
+
+71
+00:02:43,120 --> 00:02:46,240
+A graphics chip does thousands of tiny sums at once.
+
+72
+00:02:46,240 --> 00:02:48,520
+Scientists could use that for anything.
+
+73
+00:02:48,520 --> 00:02:49,640
+Who pays for it?
+
+74
+00:02:49,640 --> 00:02:51,040
+Nobody, yet.
+
+75
+00:02:51,040 --> 00:02:54,080
+It cost Nvidia a huge share of its profits.
+
+76
+00:02:54,080 --> 00:02:56,720
+And for years, it earned almost nothing.
+
+77
+00:02:56,720 --> 00:02:59,080
+Three years, still flat.
+
+78
+00:02:59,080 --> 00:03:00,680
+It's eating our margins.
+
+79
+00:03:00,680 --> 00:03:01,520
+It's early.
+
+80
+00:03:01,520 --> 00:03:04,200
+I can't put early in a forecast.
+
+81
+00:03:04,200 --> 00:03:05,920
+Then leave it out of the forecast.
+
+82
+00:03:05,920 --> 00:03:06,920
+Keep it in the company.
+
+83
+00:03:06,920 --> 00:03:11,080
+In 2012, a team in Toronto won an image recognition contest
+
+84
+00:03:11,080 --> 00:03:13,120
+by a mile, with a program trained
+
+85
+00:03:13,120 --> 00:03:15,320
+on two Nvidia gaming cards.
+
+86
+00:03:15,320 --> 00:03:17,800
+Every AI lab on Earth noticed.
+
+87
+00:03:17,800 --> 00:03:19,880
+CUDA took a decade to pay off.
+
+88
+00:03:19,920 --> 00:03:22,560
+Today, nine of every 10 graphics chips
+
+89
+00:03:22,560 --> 00:03:24,560
+that run AI are Nvidia's.
+
+90
+00:03:24,560 --> 00:03:25,840
+And that finance chief?
+
+91
+00:03:25,840 --> 00:03:26,640
+He was right.
+
+92
+00:03:26,640 --> 00:03:28,520
+Every year, CUDA lost money.
+
+93
+00:03:28,520 --> 00:03:30,440
+Cutting it was the sensible call.
+
+94
+00:03:30,440 --> 00:03:33,240
+Even the investors who think Nvidia will be fine
+
+95
+00:03:33,240 --> 00:03:35,720
+give Jensen's pipeline two years.
+
+96
+00:03:35,720 --> 00:03:37,600
+So who signs year three?
+
+97
+00:03:37,600 --> 00:03:38,560
+As of this week,
+
+98
+00:03:38,560 --> 00:03:41,120
+Nvidia's boss is its finance chief.
+
+99
+00:03:43,360 --> 00:03:44,560
+Back to that test.
+
+100
+00:03:44,560 --> 00:03:48,160
+Name one Nvidia executive who isn't Jensen Huang.
+
+101
+00:03:48,160 --> 00:03:49,120
+You can't.
+
+102
+00:03:49,120 --> 00:03:50,360
+That was on purpose.
+
+103
+00:03:50,360 --> 00:03:55,040
+For years, Jensen was Nvidia's only face, inside and out.
+
+104
+00:03:55,040 --> 00:03:57,920
+Most big companies are built like an office tower.
+
+105
+00:03:57,920 --> 00:04:00,280
+Nvidia was built like a bicycle wheel.
+
+106
+00:04:00,280 --> 00:04:03,000
+60 people reported straight to Jensen.
+
+107
+00:04:03,000 --> 00:04:06,040
+No chief operating officer, no one-on-ones.
+
+108
+00:04:06,040 --> 00:04:09,200
+I don't have one-on-ones with them because it's impossible.
+
+109
+00:04:09,200 --> 00:04:11,840
+He even reviewed every employee's pay.
+
+110
+00:04:11,840 --> 00:04:13,080
+Who needs a decision?
+
+111
+00:04:13,080 --> 00:04:13,920
+Me.
+
+112
+00:04:13,920 --> 00:04:16,280
+Yes, yes, no, yes, next.
+
+113
+00:04:16,280 --> 00:04:18,160
+It made Nvidia fast.
+
+114
+00:04:18,200 --> 00:04:19,640
+In Jensen's own words,
+
+115
+00:04:19,640 --> 00:04:22,120
+my management style is what made it possible
+
+116
+00:04:22,120 --> 00:04:23,440
+for the company to grow.
+
+117
+00:04:23,440 --> 00:04:25,000
+It also meant this.
+
+118
+00:04:25,000 --> 00:04:27,000
+So who's number two?
+
+119
+00:04:27,000 --> 00:04:27,920
+There isn't one.
+
+120
+00:04:27,920 --> 00:04:29,680
+No succession plan, either.
+
+121
+00:04:29,680 --> 00:04:31,560
+So what was the hub holding?
+
+122
+00:04:31,560 --> 00:04:33,000
+First, the customers.
+
+123
+00:04:33,000 --> 00:04:34,840
+Who buys all these chips?
+
+124
+00:04:34,840 --> 00:04:36,320
+Three direct buyers.
+
+125
+00:04:36,320 --> 00:04:39,640
+About 44 cents of every dollar this year so far.
+
+126
+00:04:39,640 --> 00:04:41,040
+And who did they deal with?
+
+127
+00:04:41,040 --> 00:04:41,880
+Guess.
+
+128
+00:04:41,880 --> 00:04:44,560
+One investor, Thomas Ferguson, said this.
+
+129
+00:04:44,560 --> 00:04:46,600
+As a student of economic history,
+
+130
+00:04:46,600 --> 00:04:49,240
+I don't know if there's ever been such a key man
+
+131
+00:04:49,240 --> 00:04:51,600
+holding so much of this industry up.
+
+132
+00:04:51,600 --> 00:04:54,080
+And that industry includes your money.
+
+133
+00:04:54,080 --> 00:04:55,840
+I don't own Nvidia.
+
+134
+00:04:55,840 --> 00:04:58,440
+Got an S&P 500 fund in there?
+
+135
+00:04:58,440 --> 00:04:59,280
+Yes.
+
+136
+00:04:59,280 --> 00:05:00,720
+Then you own Nvidia.
+
+137
+00:05:00,720 --> 00:05:04,040
+Put $10,000 in an S&P 500 fund
+
+138
+00:05:04,040 --> 00:05:06,640
+and six or 700 of it is Nvidia.
+
+139
+00:05:06,640 --> 00:05:09,320
+One of the biggest bets in your whole retirement
+
+140
+00:05:09,320 --> 00:05:11,240
+is riding on one company.
+
+141
+00:05:11,240 --> 00:05:13,880
+And that company was riding on one man.
+
+142
+00:05:13,880 --> 00:05:15,680
+I never picked this guy.
+
+143
+00:05:15,680 --> 00:05:16,840
+You didn't have to.
+
+144
+00:05:16,840 --> 00:05:19,280
+You just had to save for retirement.
+
+145
+00:05:19,280 --> 00:05:22,080
+So my retirement rides on Tuesday
+
+146
+00:05:22,080 --> 00:05:23,760
+and I didn't even get a vote.
+
+147
+00:05:23,760 --> 00:05:25,920
+Everybody has a call on Tuesday.
+
+148
+00:05:25,920 --> 00:05:27,760
+Most people never act on it.
+
+149
+00:05:27,760 --> 00:05:30,720
+Nvidia sits inside a fund they never picked.
+
+150
+00:05:30,720 --> 00:05:32,440
+I do have a theory.
+
+151
+00:05:32,440 --> 00:05:34,840
+I'm just not betting my retirement on it.
+
+152
+00:05:34,840 --> 00:05:35,840
+You don't have to.
+
+153
+00:05:35,840 --> 00:05:39,960
+Trench.io gives you access to stocks, crypto, and more
+
+154
+00:05:39,960 --> 00:05:42,400
+with up to 1,000 X multiplier.
+
+155
+00:05:42,400 --> 00:05:46,000
+Meaning a trade that would normally make $20 in profit
+
+156
+00:05:46,000 --> 00:05:49,840
+could make $20,000 with 1,000 X multiplier
+
+157
+00:05:49,840 --> 00:05:53,200
+because your position size is 1,000 times larger.
+
+158
+00:05:53,200 --> 00:05:56,800
+You can also never lose more than you put into a trade
+
+159
+00:05:56,800 --> 00:05:59,080
+but your upside is uncapped.
+
+160
+00:05:59,080 --> 00:06:01,440
+So if you think Nvidia is going down
+
+161
+00:06:01,440 --> 00:06:03,440
+because their CEO just resigned,
+
+162
+00:06:03,440 --> 00:06:07,240
+you can place that trade with up to 1,000 X like this.
+
+163
+00:06:07,240 --> 00:06:09,680
+Then the candles do what candles do
+
+164
+00:06:09,680 --> 00:06:12,040
+and you close the trade whenever you like.
+
+165
+00:06:12,080 --> 00:06:14,280
+Thousands of people are already trading
+
+166
+00:06:14,280 --> 00:06:18,480
+on trench.io every day with over $10 billion
+
+167
+00:06:18,480 --> 00:06:20,080
+in notional trading volume
+
+168
+00:06:20,080 --> 00:06:22,760
+and more than 2 million withdrawn so far.
+
+169
+00:06:22,760 --> 00:06:25,240
+Signing up is free and trench.io
+
+170
+00:06:25,240 --> 00:06:28,680
+is giving five people $500 each.
+
+171
+00:06:28,680 --> 00:06:30,840
+Sign up with the code PAPERB.
+
+172
+00:06:30,840 --> 00:06:33,920
+It's on screen and in the first link in the description.
+
+173
+00:06:33,920 --> 00:06:35,560
+Now, back to Nvidia.
+
+174
+00:06:35,560 --> 00:06:39,360
+For 33 years, one man made the big bets there.
+
+175
+00:06:39,400 --> 00:06:42,560
+As of this week, someone very different makes them.
+
+176
+00:06:45,160 --> 00:06:46,960
+Thursday, November 12th,
+
+177
+00:06:46,960 --> 00:06:49,480
+Nvidia's new boss is Colette Kress,
+
+178
+00:06:49,480 --> 00:06:51,840
+13 years running Nvidia's money.
+
+179
+00:06:51,840 --> 00:06:55,480
+Before that, Cisco, Microsoft and Texas Instruments.
+
+180
+00:06:55,480 --> 00:06:58,040
+Her job in public was reading out the results.
+
+181
+00:06:58,040 --> 00:07:01,400
+Now she's interim CEO and still CFO
+
+182
+00:07:01,400 --> 00:07:03,920
+so the finance chief reports to herself.
+
+183
+00:07:03,920 --> 00:07:06,880
+I'd like money for something bold.
+
+184
+00:07:06,880 --> 00:07:08,160
+Show me the numbers.
+
+185
+00:07:08,200 --> 00:07:09,680
+There aren't any yet.
+
+186
+00:07:09,680 --> 00:07:11,480
+Then come back when there are.
+
+187
+00:07:11,480 --> 00:07:12,920
+Is she the new Jensen?
+
+188
+00:07:12,920 --> 00:07:16,480
+She's the one to steady the ship for a year.
+
+189
+00:07:16,480 --> 00:07:18,320
+Then they hire an outsider.
+
+190
+00:07:18,320 --> 00:07:20,320
+That's what an interim boss is for.
+
+191
+00:07:20,320 --> 00:07:23,840
+Keep customers calm, hit the numbers, break nothing.
+
+192
+00:07:23,840 --> 00:07:26,040
+We've seen this exact move before.
+
+193
+00:07:26,040 --> 00:07:29,520
+August 2010, HP's CEO, Mark Herd,
+
+194
+00:07:29,520 --> 00:07:31,920
+resigns after an investigation finds
+
+195
+00:07:31,920 --> 00:07:35,040
+a close personal relationship with a contractor
+
+196
+00:07:35,040 --> 00:07:37,040
+and inaccurate expense reports.
+
+197
+00:07:37,040 --> 00:07:39,320
+So who runs HP now?
+
+198
+00:07:39,320 --> 00:07:40,840
+Me, temporarily.
+
+199
+00:07:40,840 --> 00:07:45,040
+In two weeks, HP was $15 billion lighter.
+
+200
+00:07:45,040 --> 00:07:49,080
+One study later looked at six big CEO scandal exits.
+
+201
+00:07:49,080 --> 00:07:52,520
+Over the next year, HP did the worst of all six,
+
+202
+00:07:52,520 --> 00:07:54,880
+nearly 40 points behind the market.
+
+203
+00:07:54,880 --> 00:07:56,160
+Intel tried it too.
+
+204
+00:07:56,160 --> 00:08:00,360
+In 2018, its CEO resigned over a past relationship
+
+205
+00:08:00,360 --> 00:08:01,280
+with an employee.
+
+206
+00:08:01,280 --> 00:08:03,400
+So who runs Intel now?
+
+207
+00:08:03,400 --> 00:08:04,880
+Me, temporarily.
+
+208
+00:08:04,880 --> 00:08:06,640
+Want to make it permanent?
+
+209
+00:08:07,400 --> 00:08:11,440
+Under Swan, Intel's next manufacturing step slipped again.
+
+210
+00:08:11,440 --> 00:08:15,240
+And in 2021, it replaced him with an engineer too late.
+
+211
+00:08:15,240 --> 00:08:17,560
+Last year, the company that had passed it,
+
+212
+00:08:17,560 --> 00:08:21,120
+NVIDIA, put $5 billion into Intel.
+
+213
+00:08:21,120 --> 00:08:23,400
+A burger chain can run on the spreadsheet.
+
+214
+00:08:23,400 --> 00:08:26,040
+A kitchen with three Michelin stars can't.
+
+215
+00:08:26,040 --> 00:08:29,400
+Its best dish exists because the chef tried something weird
+
+216
+00:08:29,400 --> 00:08:32,160
+and said, again, NVIDIA is that kitchen.
+
+217
+00:08:32,160 --> 00:08:33,840
+And the chef just walked out.
+
+218
+00:08:33,840 --> 00:08:35,480
+Rivals can smell it.
+
+219
+00:08:35,520 --> 00:08:37,720
+The first morning after the scandal broke,
+
+220
+00:08:37,720 --> 00:08:41,000
+Google unveiled a new AI chip built for governments
+
+221
+00:08:41,000 --> 00:08:42,600
+and regulated industries.
+
+222
+00:08:42,600 --> 00:08:45,760
+And every month NVIDIA goes without a permanent boss,
+
+223
+00:08:45,760 --> 00:08:47,960
+rivals sales pitch gets easier.
+
+224
+00:08:47,960 --> 00:08:50,080
+Steadying the ship is the job.
+
+225
+00:08:50,080 --> 00:08:51,800
+Look at what calm costs.
+
+226
+00:08:51,800 --> 00:08:54,720
+Colette, would you bet a huge share of our profits
+
+227
+00:08:54,720 --> 00:08:57,760
+on something with no customers for years?
+
+228
+00:08:57,760 --> 00:08:58,840
+What's the return?
+
+229
+00:08:58,840 --> 00:09:00,280
+Nobody knows.
+
+230
+00:09:00,280 --> 00:09:01,680
+Then no.
+
+231
+00:09:01,680 --> 00:09:02,880
+Perfect answer.
+
+232
+00:09:02,880 --> 00:09:03,640
+It is.
+
+233
+00:09:03,640 --> 00:09:06,280
+It's also the answer that would have killed CUDA.
+
+234
+00:09:08,560 --> 00:09:10,800
+Apple lost Steve Jobs twice.
+
+235
+00:09:10,800 --> 00:09:13,080
+The first time, it nearly went broke.
+
+236
+00:09:13,080 --> 00:09:15,960
+The second time, it became one of the richest companies
+
+237
+00:09:15,960 --> 00:09:16,800
+on earth.
+
+238
+00:09:16,800 --> 00:09:19,280
+The difference was who picked the next boss.
+
+239
+00:09:19,280 --> 00:09:23,360
+1985, Apple's board strips Jobs of his duties.
+
+240
+00:09:23,360 --> 00:09:25,120
+We're backing the professional, Steve.
+
+241
+00:09:25,120 --> 00:09:26,160
+We'll take it from here.
+
+242
+00:09:26,160 --> 00:09:27,080
+Sure you will.
+
+243
+00:09:27,080 --> 00:09:28,960
+In September, he resigns.
+
+244
+00:09:28,960 --> 00:09:32,360
+Apple goes through three CEOs in 12 years
+
+245
+00:09:32,360 --> 00:09:34,960
+and a pile of forgettable computers.
+
+246
+00:09:34,960 --> 00:09:38,560
+In two years, it loses almost $2 billion.
+
+247
+00:09:38,560 --> 00:09:42,680
+When Jobs comes back, he takes $150 million from Bill Gates.
+
+248
+00:09:42,680 --> 00:09:44,920
+Apple got rescued by Microsoft?
+
+249
+00:09:44,920 --> 00:09:46,240
+That's how bad it got.
+
+250
+00:09:46,240 --> 00:09:48,120
+2011 is the opposite.
+
+251
+00:09:48,120 --> 00:09:49,360
+Jobs is dying.
+
+252
+00:09:49,360 --> 00:09:52,080
+And he picks his successor himself, Tim Cook,
+
+253
+00:09:52,080 --> 00:09:55,080
+who had run Apple's operations for years.
+
+254
+00:09:55,080 --> 00:09:56,000
+It's yours, Tim.
+
+255
+00:09:56,000 --> 00:09:57,600
+You already know where everything is.
+
+256
+00:09:57,600 --> 00:10:01,680
+Cook took over at about $347 billion.
+
+257
+00:10:01,680 --> 00:10:05,440
+This September, Apple was worth $4.7 trillion.
+
+258
+00:10:05,440 --> 00:10:08,600
+Nvidia, this week, is 1985.
+
+259
+00:10:08,600 --> 00:10:10,080
+There was no plan B.
+
+260
+00:10:10,080 --> 00:10:13,000
+In March, on a podcast, Jensen waved off
+
+261
+00:10:13,000 --> 00:10:14,600
+classic succession plans.
+
+262
+00:10:14,600 --> 00:10:16,800
+His idea was to pass on what he knew
+
+263
+00:10:16,800 --> 00:10:19,360
+as often and continuously as you can.
+
+264
+00:10:19,360 --> 00:10:22,800
+And for 33 years, a company now worth trillions
+
+265
+00:10:22,800 --> 00:10:24,240
+had no board chair.
+
+266
+00:10:24,240 --> 00:10:26,440
+It announced its first one on Thursday.
+
+267
+00:10:26,440 --> 00:10:28,000
+We have a chair now.
+
+268
+00:10:28,000 --> 00:10:29,040
+Since when?
+
+269
+00:10:29,040 --> 00:10:30,600
+Since Wednesday night.
+
+270
+00:10:30,640 --> 00:10:32,120
+So who's on the list?
+
+271
+00:10:32,120 --> 00:10:34,800
+Colette, a few of Jensen's engineers.
+
+272
+00:10:34,800 --> 00:10:36,960
+Lisa Su, who runs AMD.
+
+273
+00:10:36,960 --> 00:10:38,800
+Isn't AMD the rival?
+
+274
+00:10:38,800 --> 00:10:40,800
+Yes, she's also his cousin.
+
+275
+00:10:40,800 --> 00:10:43,000
+The real list doesn't exist yet.
+
+276
+00:10:43,000 --> 00:10:45,520
+The board hired an outside firm to write it.
+
+277
+00:10:45,520 --> 00:10:46,840
+Nobody had one ready.
+
+278
+00:10:46,840 --> 00:10:49,440
+Whoever gets it also inherits Washington,
+
+279
+00:10:49,440 --> 00:10:51,520
+where Jensen did the talking himself.
+
+280
+00:10:51,520 --> 00:10:55,600
+Last year, Trump wanted 20% of Nvidia's China chip sales
+
+281
+00:10:55,600 --> 00:10:56,400
+for the government.
+
+282
+00:10:56,400 --> 00:10:58,480
+Jensen talked him down to 15.
+
+283
+00:10:58,480 --> 00:11:00,800
+So we negotiated a little deal.
+
+284
+00:11:00,800 --> 00:11:02,400
+That deal was personal.
+
+285
+00:11:02,400 --> 00:11:04,400
+Now, Congress wants answers.
+
+286
+00:11:04,400 --> 00:11:06,920
+An Nvidia's forecast counts on nothing
+
+287
+00:11:06,920 --> 00:11:08,480
+from China's data centers.
+
+288
+00:11:08,480 --> 00:11:11,640
+A new boss inherits the hearings, not the friendship.
+
+289
+00:11:11,640 --> 00:11:13,560
+Then the president joined the search.
+
+290
+00:11:13,560 --> 00:11:15,840
+There is only one man to take his place.
+
+291
+00:11:15,840 --> 00:11:17,560
+Tim Cook of Apple.
+
+292
+00:11:17,560 --> 00:11:19,640
+A legend replaces a legend.
+
+293
+00:11:19,640 --> 00:11:21,920
+Doesn't Tim Cook already have a job?
+
+294
+00:11:21,920 --> 00:11:25,480
+He stepped down as Apple's CEO on September 1st.
+
+295
+00:11:25,480 --> 00:11:28,720
+So the pick to replace a CEO who just left
+
+296
+00:11:28,720 --> 00:11:30,680
+is a CEO who just left.
+
+297
+00:11:30,680 --> 00:11:34,800
+Elon Musk had already said hiring Jensen would be an honor.
+
+298
+00:11:34,800 --> 00:11:36,640
+Cook is a great operator.
+
+299
+00:11:36,640 --> 00:11:39,520
+Under him, Apple got the watch and AirPods,
+
+300
+00:11:39,520 --> 00:11:41,120
+but never another iPhone.
+
+301
+00:11:41,120 --> 00:11:43,360
+An operator keeps a machine running.
+
+302
+00:11:43,360 --> 00:11:46,720
+Nvidia's machine was one man making bets.
+
+303
+00:11:48,960 --> 00:11:51,200
+On Tuesday, Nvidia reports.
+
+304
+00:11:51,200 --> 00:11:52,600
+What are they expecting?
+
+305
+00:11:52,600 --> 00:11:56,000
+About $108 billion of sales for the quarter.
+
+306
+00:11:56,000 --> 00:11:57,440
+More than a billion a day.
+
+307
+00:11:57,440 --> 00:11:59,240
+The numbers will be great.
+
+308
+00:11:59,240 --> 00:12:00,360
+That's the trap.
+
+309
+00:12:00,360 --> 00:12:03,200
+Those chips were designed, ordered, and promised
+
+310
+00:12:03,200 --> 00:12:04,760
+while Jensen was in charge.
+
+311
+00:12:04,760 --> 00:12:06,960
+The first report after a founder leaves
+
+312
+00:12:06,960 --> 00:12:09,360
+is the founder's last bets paying out.
+
+313
+00:12:09,360 --> 00:12:12,960
+Intel kept making money for years while it lost its lead.
+
+314
+00:12:12,960 --> 00:12:15,080
+Wall Street is split three ways.
+
+315
+00:12:15,080 --> 00:12:18,080
+Analyst Jay Goldberg says the quarter will be good
+
+316
+00:12:18,080 --> 00:12:19,280
+and nobody will care.
+
+317
+00:12:19,280 --> 00:12:22,200
+Investor Dan Niles bet his interviewer dinner
+
+318
+00:12:22,200 --> 00:12:25,720
+that a strong report sends the stock up, whoever is CEO.
+
+319
+00:12:25,720 --> 00:12:28,840
+And Ives says it's worth a quarter less without him.
+
+320
+00:12:28,840 --> 00:12:30,680
+The bulls have a real case.
+
+321
+00:12:30,680 --> 00:12:32,800
+Nvidia's next three chip generations
+
+322
+00:12:32,800 --> 00:12:35,640
+are already mapped out through 2028.
+
+323
+00:12:35,640 --> 00:12:37,640
+In March, Jensen said he could see
+
+324
+00:12:37,640 --> 00:12:39,960
+at least a trillion dollars of sales
+
+325
+00:12:39,960 --> 00:12:42,560
+from his two newest chips through next year.
+
+326
+00:12:42,560 --> 00:12:45,760
+It has about 40,000 employees, not one.
+
+327
+00:12:45,760 --> 00:12:47,960
+Fund manager Jeremiah Buckley says,
+
+328
+00:12:47,960 --> 00:12:51,800
+we think visibility is extremely high for 2027
+
+329
+00:12:51,800 --> 00:12:55,160
+and in 2011, the year jobs stepped down and died,
+
+330
+00:12:55,160 --> 00:12:56,560
+Apple's stock went up.
+
+331
+00:12:56,560 --> 00:12:59,240
+So it's fine for two years
+
+332
+00:12:59,240 --> 00:13:01,400
+when somebody has to make the next bet.
+
+333
+00:13:01,400 --> 00:13:03,800
+Okay, Tuesday, what am I watching?
+
+334
+00:13:03,800 --> 00:13:05,080
+Who answers the questions?
+
+335
+00:13:05,080 --> 00:13:07,800
+For the first time, it won't be Jensen.
+
+336
+00:13:07,800 --> 00:13:08,640
+And?
+
+337
+00:13:08,640 --> 00:13:11,200
+Anything after 2028 where the map ends
+
+338
+00:13:11,200 --> 00:13:14,200
+and China, now that the man who cut the deals is gone.
+
+339
+00:13:14,200 --> 00:13:15,920
+That's how Nvidia fails.
+
+340
+00:13:15,920 --> 00:13:17,680
+Not with a crash on Tuesday,
+
+341
+00:13:17,680 --> 00:13:19,760
+it keeps making money for years
+
+342
+00:13:19,760 --> 00:13:21,480
+and never makes the next CUDA
+
+343
+00:13:21,480 --> 00:13:24,840
+because nobody left in charge is paid to bet like that.
+
+344
+00:13:24,840 --> 00:13:28,960
+In 2013, Morris Chang, the founder of TSMC,
+
+345
+00:13:28,960 --> 00:13:30,920
+the company that makes Nvidia's chips,
+
+346
+00:13:30,920 --> 00:13:33,000
+offered Jensen the top job there.
+
+347
+00:13:33,000 --> 00:13:35,480
+Chang spent 10 minutes making his pitch.
+
+348
+00:13:35,480 --> 00:13:38,400
+Jensen listened and said, no, he already had a job.
+
+349
+00:13:38,400 --> 00:13:39,560
+He doesn't anymore.
+
+350
+00:13:39,560 --> 00:13:42,720
+His plan for this day was to pass on everything he knew
+
+351
+00:13:42,720 --> 00:13:45,480
+as often as he could to everyone at Nvidia.
+
+352
+00:13:45,480 --> 00:13:47,160
+That two trillion dollar gap
+
+353
+00:13:47,160 --> 00:13:49,120
+is Wall Street betting that it didn't.
+
+354
+00:13:49,120 --> 00:13:52,080
+Tuesday won't settle that, the next big bet will.
+
+355
+00:13:52,080 --> 00:13:55,160
+And right now, nobody knows who gets to make it.
+
+356
+00:13:56,400 --> 00:13:59,080
+And don't forget to go check out Trench.io.
+
+357
+00:13:59,080 --> 00:14:02,040
+They have multipliers of all the way to 1000X
+
+358
+00:14:02,040 --> 00:14:03,640
+on stocks and crypto.
+
+359
+00:14:03,640 --> 00:14:06,640
+They're also giving away $500 to five people
+
+360
+00:14:06,640 --> 00:14:09,520
+who sign up for free and use code PAPERB.
+
+361
+00:14:09,520 --> 00:14:11,760
+Link is in the description and pinned comment.
+

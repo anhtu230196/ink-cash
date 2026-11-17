@@ -1,0 +1,40 @@
+October 7, 2022. Washington, D.C.
+Washington builds a wall across the Pacific…
+[deadpan] It's a wall made of paperwork.
+In October 2022, export controls block top AI chips from going to China.
+The rule works like a highway speed limit.
+Is your chip too fast?
+
+You need a federal license.
+Shipping to Beijing?
+[sarcastic] Good luck getting that stamp.
+So how does Nvidia respond?
+Engineers design slightly slower chips — just for China.
+Problem solved?
+
+[dry] Not for long.
+
+In October 2023, Washington lowers the speed limit again.
+Those China-only chips get banned too.
+So Nvidia designs an even SLOWER chip: the H20.
+Think of a Ferrari… with a lawnmower engine.
+
+[small child voice, whiny] “Why am I so slow?”
+[small child voice, flat and bossy] “You're the LEGAL model.”
+
+Then, in April 2025, Washington restricts the H20 as well.
+Nvidia takes a 5.5-billion-dollar charge on unsold inventory.
+[dry] They baked the cake, and Uncle Sam cancelled the party.
+
+[flat bureaucrat voice] “This chip is too fast for China.”
+[smooth salesman voice, upbeat] “No problem! We made a slower one.”
+[flat bureaucrat voice] “That one is also too fast.”
+[smooth salesman voice, upbeat] “So we made an even slower one!”
+[flat bureaucrat voice] “Still… too fast.”
+[smooth salesman voice, suddenly nervous] “What if I just ship the empty box?”
+[flat bureaucrat voice, bored] “Fill out form seven.”
+
+Every physical door to China looks locked tight.
+Why?
+Because the rules watch where physical boxes go…
+[lower, conspiratorial] Not where the math goes.

@@ -1,0 +1,14 @@
+node_modules/
+.cache/
+build/
+episodes/*/out/**/*.mp4
+.DS_Store
+__pycache__/
+.env
+.env.*
+
+# render intermediates: regenerate locally, too big for GitHub (100MB/file limit)
+episodes/*/out/mix/
+episodes/*/out/**/*.wav
+lab/out/**/*.mp4
+*.mov

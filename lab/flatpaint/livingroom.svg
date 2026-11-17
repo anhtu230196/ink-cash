@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<!-- Thử phong cách "mảng màu phẳng + hạt giấy + mép xơ": người đàn ông ngồi trong phòng khách biệt thự -->
+<defs>
+  <!-- mép mảng màu hơi xơ, như cắt giấy / tô cọ -->
+  <filter id="rough" x="-5%" y="-5%" width="110%" height="110%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.045" numOctaves="2" seed="4" result="n"/>
+    <feDisplacementMap in="SourceGraphic" in2="n" scale="6" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+  <!-- hạt giấy mịn -->
+  <filter id="grain" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.95" numOctaves="2" seed="9" stitchTiles="stitch"/>
+    <feColorMatrix type="matrix" values="1 0 0 0 0  1 0 0 0 0  1 0 0 0 0  0 0 0 0 0.22"/>
+  </filter>
+  <!-- vệt cọ loang trên mảng lớn -->
+  <filter id="mottle" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.004 0.012" numOctaves="3" seed="2"/>
+    <feColorMatrix type="matrix" values="1 0 0 0 0  1 0 0 0 0  1 0 0 0 0  0 0 0 0 0.16"/>
+  </filter>
+  <clipPath id="win"><path d="M130,720 L130,300 A215,190 0 0 1 560,300 L560,720 Z"/></clipPath>
+  <radialGradient id="lampglow"><stop offset="0" stop-color="#ffe9b8" stop-opacity=".55"/><stop offset="1" stop-color="#ffe9b8" stop-opacity="0"/></radialGradient>
+  <radialGradient id="fireglow"><stop offset="0" stop-color="#ff9a3c" stop-opacity=".5"/><stop offset="1" stop-color="#ff9a3c" stop-opacity="0"/></radialGradient>
+</defs>
+
+<g filter="url(#rough)">
+  <!-- tường + ốp chân tường -->
+  <rect x="-40" y="-40" width="2000" height="1160" fill="#c4bcaf"/>
+  <rect y="520" width="1920" height="200" fill="#b3a998"/>
+  <rect y="512" width="1920" height="14" fill="#a39885"/>
+  <g fill="none" stroke="#a39885" stroke-width="6">
+    <rect x="660" y="560" width="120" height="125"/>
+    <rect x="1200" y="560" width="160" height="125"/>
+    <rect x="1400" y="560" width="160" height="125"/>
+    <rect x="1600" y="560" width="160" height="125"/>
+  </g>
+
+  <!-- sàn gỗ + chân tường -->
+  <rect x="-40" y="720" width="2000" height="400" fill="#5f4a3e"/>
+  <rect y="712" width="1920" height="16" fill="#3e322b"/>
+  <g stroke="#544036" stroke-width="5">
+    <line x1="0" y1="800" x2="1920" y2="800"/><line x1="0" y1="900" x2="1920" y2="900"/><line x1="0" y1="1010" x2="1920" y2="1010"/>
+  </g>
+
+  <!-- thảm -->
+  <polygon points="330,790 1640,790 1880,1080 90,1080" fill="#7b3a33"/>
+  <polygon points="380,815 1590,815 1800,1060 170,1060" fill="none" stroke="#a8665a" stroke-width="10"/>
+
+  <!-- cửa sổ vòm nhìn ra vườn -->
+  <g clip-path="url(#win)">
+    <rect x="120" y="100" width="450" height="640" fill="#d6dfd9"/>
+    <ellipse cx="200" cy="640" rx="190" ry="170" fill="#7f9b7c"/>
+    <ellipse cx="470" cy="610" rx="170" ry="190" fill="#6d8a6b"/>
+    <ellipse cx="340" cy="700" rx="260" ry="90" fill="#5c7a5c"/>
+  </g>
+  <path d="M130,720 L130,300 A215,190 0 0 1 560,300 L560,720 Z" fill="none" stroke="#ece6da" stroke-width="16"/>
+  <g stroke="#ece6da" stroke-width="10"><line x1="345" y1="112" x2="345" y2="720"/><line x1="130" y1="420" x2="560" y2="420"/><line x1="130" y1="570" x2="560" y2="570"/></g>
+
+  <!-- rèm -->
+  <line x1="40" y1="78" x2="660" y2="78" stroke="#9c7b45" stroke-width="12"/>
+  <path d="M60,82 L190,82 C175,250 205,420 165,560 C150,640 185,700 200,725 L55,725 Z" fill="#33473a"/>
+  <path d="M500,82 L640,82 L645,725 L495,725 C515,690 545,630 530,560 C495,420 520,250 500,82 Z" fill="#33473a"/>
+  <path d="M110,90 C100,300 120,500 100,720" stroke="#2a3b30" stroke-width="8" fill="none"/>
+  <path d="M590,90 C600,300 580,500 595,720" stroke="#2a3b30" stroke-width="8" fill="none"/>
+
+  <!-- lò sưởi + tranh -->
+  <rect x="840" y="150" width="280" height="215" fill="#a8843f"/>
+  <rect x="862" y="172" width="236" height="171" fill="#c9c3a4"/>
+  <path d="M862,290 C930,250 990,280 1098,240 L1098,343 L862,343 Z" fill="#8a9a74"/>
+  <path d="M862,315 C960,300 1030,320 1098,300 L1098,343 L862,343 Z" fill="#6f7f5c"/>
+  <rect x="820" y="430" width="320" height="290" fill="#e2d9c8"/>
+  <rect x="795" y="405" width="370" height="34" fill="#efe8da"/>
+  <path d="M900,720 L900,560 A80,60 0 0 1 1060,560 L1060,720 Z" fill="#2b2420"/>
+  <circle cx="980" cy="680" r="140" fill="url(#fireglow)"/>
+  <path d="M935,712 C930,670 960,660 955,620 C985,650 975,670 990,640 C1015,670 1030,690 1025,712 Z" fill="#e0782f"/>
+  <path d="M955,712 C955,690 970,680 972,660 C990,685 1000,695 1000,712 Z" fill="#f2b35a"/>
+  <rect x="925" y="706" width="110" height="12" fill="#4a3426"/>
+
+  <!-- đèn cây -->
+  <circle cx="1790" cy="380" r="230" fill="url(#lampglow)"/>
+  <rect x="1785" y="400" width="10" height="470" fill="#33302c"/>
+  <ellipse cx="1790" cy="872" rx="45" ry="10" fill="#33302c"/>
+  <path d="M1740,300 L1840,300 L1870,405 L1710,405 Z" fill="#e8dcc0"/>
+
+  <!-- ghế bành: lưng -->
+  <path d="M1350,700 L1340,380 C1340,320 1390,300 1480,300 C1580,300 1640,320 1645,380 L1655,820 L1350,820 Z" fill="#5e3f2a"/>
+  <path d="M1370,690 L1365,400 C1368,350 1400,335 1480,333" fill="none" stroke="#4f3423" stroke-width="8"/>
+  <!-- đệm ngồi -->
+  <rect x="1250" y="690" width="400" height="80" rx="18" fill="#6e4a32"/>
+
+  <!-- người: chân phía sau -->
+  <path d="M1300,660 L1330,860" stroke="#232323" stroke-width="54" stroke-linecap="round"/>
+  <path d="M1300,852 L1365,852 C1378,870 1375,888 1360,890 L1285,890 Z" fill="#141414"/>
+  <!-- chân phía trước: đùi + cẳng -->
+  <path d="M1420,650 L1240,640" stroke="#2c2c2c" stroke-width="72" stroke-linecap="round"/>
+  <path d="M1235,650 L1255,860" stroke="#2c2c2c" stroke-width="58" stroke-linecap="round"/>
+  <path d="M1220,852 L1285,852 L1290,892 L1190,892 C1188,875 1200,858 1220,852 Z" fill="#141414"/>
+
+  <!-- thân áo vest -->
+  <path d="M1425,498 C1450,486 1505,488 1530,505 L1550,660 L1395,668 C1388,610 1395,545 1425,498 Z" fill="#2c3646"/>
+  <path d="M1438,498 L1462,528 L1468,496 Z" fill="#ebe8e1"/>
+  <path d="M1462,528 L1430,600 L1440,520 Z" fill="#232b38"/>
+
+  <!-- tay ghế phía trước -->
+  <path d="M1262,618 C1262,590 1295,582 1320,598 L1600,604 L1612,830 L1275,830 Z" fill="#6a4630"/>
+  <ellipse cx="1292" cy="625" rx="30" ry="34" fill="#5e3f2a"/>
+  <rect x="1285" y="828" width="22" height="48" fill="#3b2a20"/>
+  <rect x="1590" y="828" width="22" height="48" fill="#3b2a20"/>
+
+  <!-- tay người: cánh tay + cẳng tay tì lên tay ghế, cầm ly -->
+  <path d="M1478,528 L1472,592" stroke="#2c3646" stroke-width="60" stroke-linecap="round"/>
+  <path d="M1472,594 L1365,590" stroke="#2c3646" stroke-width="46" stroke-linecap="round"/>
+  <rect x="1316" y="540" width="40" height="52" rx="4" fill="#d6e2e2" fill-opacity=".9"/>
+  <rect x="1318" y="565" width="36" height="25" fill="#b97a2a"/>
+  <ellipse cx="1342" cy="586" rx="24" ry="19" fill="#e2b48e"/>
+
+  <!-- cổ + đầu (không vẽ mặt) -->
+  <rect x="1440" y="455" width="40" height="50" fill="#d9a882"/>
+  <path d="M1505,420 C1515,360 1470,332 1435,335 C1405,340 1392,365 1393,392 L1381,420 L1394,428 L1395,448 C1398,465 1410,474 1428,474 C1450,476 1470,466 1482,456 C1500,446 1503,436 1505,420 Z" fill="#e2b48e"/>
+  <path d="M1393,388 C1386,345 1420,322 1452,323 C1497,325 1522,360 1512,428 C1503,420 1496,408 1492,394 C1472,378 1442,372 1416,373 C1404,375 1397,381 1393,388 Z" fill="#2a2522"/>
+  <path d="M1468,402 C1482,398 1486,425 1472,430" fill="#d49d78" stroke="#a87455" stroke-width="3"/>
+</g>
+
+<!-- lớp chất liệu phủ toàn cảnh -->
+<rect width="1920" height="1080" filter="url(#mottle)" style="mix-blend-mode:soft-light"/>
+<rect width="1920" height="1080" filter="url(#grain)" style="mix-blend-mode:soft-light"/>
+</svg>

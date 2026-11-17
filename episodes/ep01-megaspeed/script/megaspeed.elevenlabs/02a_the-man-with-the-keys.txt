@@ -1,0 +1,44 @@
+April 1993. San Jose, California.
+Jensen Huang co-founds Nvidia in a Denny's booth.
+He runs the company for thirty-three years.
+
+[warm, nostalgic] “Three engineers, one booth — and bottomless coffee.”
+[small child voice, curious] “Did you have a business plan?”
+[dry, amused] “We had an idea. And… a LOT of refills.”
+[small child voice, whiny] “And the leather jacket?”
+[warm, outgoing] “The jacket came later. The coffee came first.”
+[small child voice, flat] “So… I was born in a diner.”
+[chuckles] “The best ones usually are.”
+
+His original goal?
+Make video games look less like… wet cardboard.
+Standard computer chips work like one genius professor.
+Brilliant.
+Very serious.
+But he solves just ONE math problem at a time.
+
+Nvidia's chip works differently.
+Picture ten thousand kindergarteners holding crayons.
+None of them knows calculus…
+[deadpan] Some eat the paste.
+But they ALL color at the exact same moment.
+In tech speak, that's a GPU.
+
+A factory for tiny math, done all at once.
+[lower, conspiratorial] Then AI researchers notice a secret.
+
+What is AI training?
+TRILLIONS of tiny math problems.
+Exactly what those kindergarteners do best.
+
+[small child voice, whiny] “I used to draw dragons for video games.”
+[small child voice, flat and bossy] “Now you do math. Keep coloring.”
+[small child voice, whiny] “How many problems are left?”
+[small child voice, deadpan] “A few trillion… give or take.”
+[small child voice, whiny, close to tears] “My crayons are melting!”
+[small child voice, deadpan] “That means it's working. Welcome to AI.”
+
+Suddenly, every tech giant needs Nvidia's flagship chips, like the H100.
+Each chip costs tens of THOUSANDS of dollars.
+Does it come with a free game?
+[deadpan] Not a chance.

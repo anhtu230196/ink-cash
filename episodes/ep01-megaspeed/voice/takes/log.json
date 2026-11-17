@@ -1,0 +1,171 @@
+{
+  "takes": {
+    "02b_the-man-with-the-keys": [
+      {
+        "take": 1,
+        "request_id": "jIaT8rgAYB1BPKFdsnLj",
+        "time": 1794726816.204719,
+        "chars": 1779,
+        "cost": "783",
+        "stitched": false,
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.5
+        }
+      }
+    ],
+    "03_the-locked-door": [
+      {
+        "take": 1,
+        "request_id": "lSFLj9hHb58gum61HzxE",
+        "time": 1794727051.813848,
+        "chars": 1532,
+        "cost": "674",
+        "stitched": true,
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.5
+        }
+      }
+    ],
+    "04_the-way-around": [
+      {
+        "take": 1,
+        "request_id": "o4GimVDf7VOD9rvcOazr",
+        "time": 1794727068.099206,
+        "chars": 1231,
+        "cost": "542",
+        "stitched": true,
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.5
+        }
+      }
+    ],
+    "05a_the-approach": [
+      {
+        "take": 1,
+        "request_id": "OnDqQRVW8yBxZn0WfyV4",
+        "time": 1794727092.101664,
+        "chars": 1848,
+        "cost": "813",
+        "stitched": true,
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.5
+        }
+      }
+    ],
+    "05b_the-approach": [
+      {
+        "take": 1,
+        "request_id": "u9qJeEtNpMVhhtF29nMJ",
+        "time": 1794727113.751801,
+        "chars": 1642,
+        "cost": "722",
+        "stitched": true,
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.5
+        }
+      }
+    ],
+    "06_the-pipeline": [
+      {
+        "take": 1,
+        "request_id": "B3POKjEcqxGKRpo4e3Qd",
+        "time": 1794727136.250068,
+        "chars": 2029,
+        "cost": "893",
+        "stitched": true,
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.5
+        }
+      }
+    ],
+    "07a_what-they-allegedly-wanted": [
+      {
+        "take": 1,
+        "request_id": "r2KshsTYudVHdHOL5Vkk",
+        "time": 1794727151.573237,
+        "chars": 1216,
+        "cost": "535",
+        "stitched": true,
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.5
+        }
+      }
+    ],
+    "07b_what-they-allegedly-wanted": [
+      {
+        "take": 1,
+        "request_id": "VGEqw7MHF7pGHT3TtzZH",
+        "time": 1794727168.330687,
+        "chars": 1516,
+        "cost": "667",
+        "stitched": true,
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.5
+        }
+      }
+    ],
+    "08_how-it-came-out": [
+      {
+        "take": 1,
+        "request_id": "ZMmZbu1l0YFbzwBEyIW0",
+        "time": 1794727180.9087481,
+        "chars": 930,
+        "cost": "409",
+        "stitched": true,
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.5
+        }
+      }
+    ],
+    "09a_the-empty-chair": [
+      {
+        "take": 1,
+        "request_id": "fEGUTNiqnq8wU9LbDgaA",
+        "time": 1794727201.273159,
+        "chars": 1494,
+        "cost": "657",
+        "stitched": true,
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.5
+        }
+      }
+    ],
+    "09b_the-empty-chair": [
+      {
+        "take": 1,
+        "request_id": "gZOg6rvyHMr4LVg83Q6I",
+        "time": 1794727216.081868,
+        "chars": 1276,
+        "cost": "561",
+        "stitched": true,
+        "settings": {
+          "stability": 0.5,
+          "similarity_boost": 0.5
+        }
+      }
+    ]
+  },
+  "picked": {
+    "02b_the-man-with-the-keys": 1,
+    "03_the-locked-door": 1,
+    "04_the-way-around": 1,
+    "05a_the-approach": 1,
+    "05b_the-approach": 1,
+    "06_the-pipeline": 1,
+    "07a_what-they-allegedly-wanted": 1,
+    "07b_what-they-allegedly-wanted": 1,
+    "08_how-it-came-out": 1,
+    "09a_the-empty-chair": 1,
+    "09b_the-empty-chair": 1
+  }
+}

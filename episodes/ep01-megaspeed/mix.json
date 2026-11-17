@@ -1,0 +1,98 @@
+{
+  "_doc": "Music + SFX plan for the full ep01 video. Build: python3 -I tools/mix_episode.py episodes/ep01-megaspeed. Cue ideas: sfx-cues.md. Credits: publish/sfx-credits.md.",
+  "prefix": "ep01",
+  "sections": [
+    ["Open", "b01", 1, 11], ["B02a", "b02", 1, 37], ["B02b", "b02", 38, 73], ["B03", "b03", 1, 33], ["B04", "b04", 1, 27],
+    ["B05a", "b05", 1, 36], ["B05b", "b05", 37, 62], ["B06", "b06", 1, 36], ["B07a", "b07", 1, 22], ["B07b", "b07", 23, 50],
+    ["B08", "b08", 1, 18], ["B09a", "b09", 1, 25], ["B09b", "b09", 26, 46]
+  ],
+  "levels": { "bed": -23, "override": -24, "ambience": -35, "spot": -27 },
+  "duck": { "threshold": 0.025, "ratio": 3.5, "attack": 25, "release": 700 },
+  "master": { "I": -14, "TP": -1.5 },
+  "crossfade": 1.5,
+
+  "beds": [
+    { "file": "music/bed-morning-coffee.mp3", "from": 0, "to": "b02_010@end", "_": "cold open + the Denny's booth" },
+    { "file": "music/rise-bright-beginnings.mp3", "from": "b02_011@start", "to": "B03", "_": "Nvidia's rise, the AI-chip rush" },
+    { "file": "music/bed-morning-coffee.mp3", "from": "B03", "to": "B05a", "_": "explainers: paper wall, the long cable" },
+    { "file": "music/spy-secret-agent.mp3", "from": "B05a", "to": "B07a", "_": "Megaspeed, Alice Huang, the pipeline" },
+    { "file": "music/tension-troubled.mp3", "from": "B07a", "to": "b09_013@end", "_": "the memo, the fallout, the resignation" },
+    { "file": "music/bed-morning-coffee.mp3", "from": "b09_020@start", "to": "B09b", "_": "back to the neighbor's cable" },
+    { "file": "music/ending-melancholic.mp3", "from": "B09b", "to": "END", "_": "the empty chair" }
+  ],
+
+  "overrides": [
+    { "file": "music/skit-pizzicato.mp3", "from": "b02_028@start", "to": "b02_033@end" },
+    { "file": "music/skit-pizzicato.mp3", "from": "b02_038@start", "to": "b02_043@end" },
+    { "file": "music/skit-pizzicato.mp3", "from": "b02_052@start", "to": "b02_057@end" },
+    { "file": "music/skit-pizzicato.mp3", "from": "b02_066@start", "to": "b02_071@end" },
+    { "file": "music/skit-pizzicato.mp3", "from": "b03_023@start", "to": "b03_029@end" },
+    { "file": "music/skit-pizzicato.mp3", "from": "b04_017@start", "to": "b04_023@end" },
+    { "file": "music/skit-pizzicato.mp3", "from": "b05_018@start", "to": "b05_023@end" },
+    { "file": "music/skit-pizzicato.mp3", "from": "b05_031@start", "to": "b05_036@end" },
+    { "file": "music/skit-pizzicato.mp3", "from": "b05_051@start", "to": "b05_056@end" },
+    { "file": "music/skit-pizzicato.mp3", "from": "b06_020@start", "to": "b06_023@end" },
+    { "file": "music/skit-pizzicato.mp3", "from": "b06_027@start", "to": "b06_032@end" },
+    { "file": "music/skit-pizzicato.mp3", "from": "b07_009@start", "to": "b07_016@end" },
+    { "file": "music/skit-pizzicato.mp3", "from": "b07_037@start", "to": "b07_042@end" },
+    { "file": "music/skit-pizzicato.mp3", "from": "b09_014@start", "to": "b09_019@end" },
+    { "file": "music/skit-pizzicato.mp3", "from": "b09_032@start", "to": "b09_037@end" }
+  ],
+
+  "ambience": [
+    { "file": "sfx/diner-ambience.mp3", "from": "b01_011@start", "to": "b02_010@end" },
+    { "file": "sfx/server-hum.mp3", "from": "b04_013@start", "to": "b04_023@end", "lufs": -38 },
+    { "file": "sfx/party-crowd.mp3", "from": "b05_043@start-0.5", "to": "b05_049@end" },
+    { "file": "sfx/server-hum.mp3", "from": "b09_034@start", "to": "b09_034@end", "lufs": -38, "fade": 1.0 },
+    { "file": "sfx/server-hum.mp3", "from": "b09_046@start-0.5", "to": "END", "lufs": -36 }
+  ],
+
+  "spots": [
+    { "file": "sfx/whoosh.mp3", "at": "B02a-0.15", "lufs": -29 },
+    { "file": "sfx/whoosh.mp3", "at": "B03-0.15", "lufs": -29 },
+    { "file": "sfx/whoosh.mp3", "at": "B04-0.15", "lufs": -29 },
+    { "file": "sfx/whoosh.mp3", "at": "B05a-0.15", "lufs": -29 },
+    { "file": "sfx/whoosh.mp3", "at": "B06-0.15", "lufs": -29 },
+    { "file": "sfx/whoosh.mp3", "at": "B07a-0.15", "lufs": -29 },
+    { "file": "sfx/whoosh.mp3", "at": "B08-0.15", "lufs": -29 },
+    { "file": "sfx/whoosh.mp3", "at": "B09a-0.15", "lufs": -29 },
+
+    { "file": "sfx/coffee-pour.mp3", "at": "b02_004@start+0.8", "lufs": -32 },
+    { "file": "sfx/cash-register.mp3", "at": "b02_039@end-0.1", "lufs": -32 },
+    { "file": "sfx/paper-shuffle.mp3", "at": "b02_071@start+0.1", "lufs": -27 },
+    { "file": "sfx/vault-door.mp3", "at": "b02_073@start+0.6", "lufs": -29 },
+
+    { "file": "sfx/stamp.mp3", "at": "b03_004@start+3.45", "_": "BLOCKED" },
+    { "file": "sfx/stamp.mp3", "at": "b03_015@start+0.4", "_": "BANNED" },
+    { "file": "sfx/stamp.mp3", "at": "b03_020@start+0.95", "_": "RESTRICTED" },
+    { "file": "sfx/stamp.mp3", "at": "b03_022@start+2.05", "_": "CANCELLED" },
+    { "file": "sfx/sad-trombone.mp3", "at": "b03_022@start+2.3", "lufs": -26 },
+    { "file": "sfx/stamp.mp3", "at": "b03_029@start+1.2", "_": "form seven" },
+    { "file": "sfx/vault-door.mp3", "at": "b03_030@start+0.4", "lufs": -30 },
+
+    { "file": "sfx/stamp.mp3", "at": "b04_002@start+1.1", "_": "HELD" },
+    { "file": "sfx/stamp.mp3", "at": "b04_023@start+1.3", "lufs": -30, "_": "form seven" },
+
+    { "file": "sfx/cardboard-box.mp3", "at": "b05_023@start+0.3", "lufs": -32 },
+    { "file": "sfx/cash-register.mp3", "at": "b05_028@start+0.1", "lufs": -31 },
+    { "file": "sfx/camera-shutter.mp3", "at": "b05_041@start", "lufs": -27 },
+    { "file": "sfx/camera-shutter.mp3", "at": "b05_041@start+0.8", "lufs": -28 },
+    { "file": "sfx/camera-shutter.mp3", "at": "b05_041@start+1.6", "lufs": -29 },
+    { "file": "sfx/camera-shutter.mp3", "at": "b05_053@start+0.2", "lufs": -25 },
+    { "file": "sfx/stamp.mp3", "at": "b05_058@start+1.15", "_": "UNDER INVESTIGATION" },
+
+    { "file": "sfx/cardboard-box.mp3", "at": "b06_030@start+0.3", "lufs": -28 },
+
+    { "file": "sfx/typewriter-ding.mp3", "at": "b07_004@end-0.4", "lufs": -32 },
+    { "file": "sfx/stamp.mp3", "at": "b07_017@start+0.8", "_": "ALLEGED" },
+    { "file": "sfx/stamp.mp3", "at": "b07_033@start+0.65", "_": "ENTRY BARRED" },
+
+    { "file": "sfx/typewriter-ding.mp3", "at": "b08_008@start+1.0", "lufs": -31 },
+    { "file": "sfx/cartoon-fall.mp3", "at": "b08_015@start+0.3", "lufs": -26 },
+
+    { "file": "sfx/cartoon-fall.mp3", "at": "b09_004@start+0.3", "lufs": -26 },
+    { "file": "sfx/paper-shuffle.mp3", "at": "b09_019@start+0.6", "lufs": -31 },
+    { "file": "sfx/vault-door.mp3", "at": "b09_031@start+1.5" },
+    { "file": "sfx/stamp.mp3", "at": "b09_037@start+1.2", "lufs": -30, "_": "form seven" }
+  ]
+}
